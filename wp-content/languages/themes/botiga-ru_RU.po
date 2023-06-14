@@ -1,0 +1,4501 @@
+# Translation of Themes - Botiga in Russian
+# This file is distributed under the same license as the Themes - Botiga package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-05 14:54:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Botiga\n"
+
+#. Theme Name of the theme
+#: inc/classes/class-botiga-footer.php:182
+#: inc/modules/hf-builder/components/footer/copyright/copyright.php:17
+#, gp-priority: high
+msgid "Botiga"
+msgstr "Botiga"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Launch your store with Botiga. A beautiful theme that is optimized for both the block editor and Elementor. We proudly introduce Botiga, with a modern and clean design that will effortlessly match your brand. Botiga has been developed from the ground up with clean code for optimal performance. You’ll get a mobile-optimized theme that looks and works great on any device and comes with plenty of customization options as well. Discover the theme that will transform your online business."
+msgstr "Запустите свой магазин с помощью Botiga. Красивая тема, оптимизированная как для блочного редактора, так и для Elementor. Мы с гордостью представляем вам Botiga с современным и чистым дизайном, который легко впишется в ваш бренд. Botiga была разработана с нуля с чистым кодом для оптимальной производительности. Вы получите тему, оптимизированную для мобильных устройств, которая отлично выглядит и работает на любом устройстве и имеет множество возможностей для настройки. Откройте для себя тему, которая преобразит ваш онлайн-бизнес."
+
+#: inc/customizer/controls/class_botiga_create_page_control.php:65
+msgid "Create Page"
+msgstr "Создать страницу"
+
+#: inc/dashboard/class-dashboard-settings.php:308
+msgid "Schema Markup"
+msgstr "Schema-разметка"
+
+#. translators: %s: add to wishlist product title
+#: inc/plugins/woocommerce/features/wishlist.php:45
+#: inc/plugins/woocommerce/features/wishlist.php:80
+msgid "Add the product %s to wishlist"
+msgstr "Добавить товар %s в список пожеланий"
+
+#: inc/dashboard/class-dashboard-settings.php:154
+msgid "Extend the Gutenberg Block Editor with additional functionality."
+msgstr "Расширение редактора блоков Gutenberg с помощью дополнительных функций."
+
+#. translators: 1: time.
+#: inc/template-tags.php:89
+msgid "%1$s min read"
+msgid_plural "%1$s mins read"
+msgstr[0] "%1$s минута чтение"
+msgstr[1] "%1$s минуты чтение"
+msgstr[2] "%1$s минут чтение"
+
+#: inc/dashboard/class-dashboard-settings.php:309
+msgid "Add the schema structured data to your website."
+msgstr "Добавьте структурированные данные схемы (schema) на свой сайт."
+
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:199
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:368
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:258
+#: inc/modules/hf-builder/components/header/row/customize-options.php:402
+msgid "Background Repeat"
+msgstr "Повторение фона"
+
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:150
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:319
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:209
+#: inc/modules/hf-builder/components/header/row/customize-options.php:353
+msgid "Background Size"
+msgstr "Размер фона"
+
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:174
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:343
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:233
+#: inc/modules/hf-builder/components/header/row/customize-options.php:377
+msgid "Background Position"
+msgstr "Позиция фона"
+
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:201
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:370
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:260
+#: inc/modules/hf-builder/components/header/row/customize-options.php:404
+msgid "No Repeat"
+msgstr "Без повторений"
+
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:153
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:322
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:212
+#: inc/modules/hf-builder/components/header/row/customize-options.php:356
+msgid "Contain"
+msgstr "Вместить"
+
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:152
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:321
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:211
+#: inc/modules/hf-builder/components/header/row/customize-options.php:355
+msgid "Cover"
+msgstr "Обложка"
+
+#: inc/modules/hf-builder/components/footer/columns/customize-options.php:351
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:503
+#: inc/modules/hf-builder/components/header/columns/customize-options.php:357
+#: inc/modules/hf-builder/components/header/row/customize-options.php:537
+msgid "Margin"
+msgstr "Внешний отступ"
+
+#: inc/modules/hf-builder/components/footer/button/customize-options.php:363
+#: inc/modules/hf-builder/components/footer/copyright/customize-options.php:244
+#: inc/modules/hf-builder/components/footer/html/customize-options.php:316
+#: inc/modules/hf-builder/components/footer/social/customize-options.php:225
+#: inc/modules/hf-builder/components/footer/widget-1/customize-options.php:270
+#: inc/modules/hf-builder/components/footer/widget-2/customize-options.php:270
+#: inc/modules/hf-builder/components/footer/widget-3/customize-options.php:270
+#: inc/modules/hf-builder/components/footer/widget-4/customize-options.php:270
+#: inc/modules/hf-builder/components/header/button/customize-options.php:473
+#: inc/modules/hf-builder/components/header/contact-info/customize-options.php:386
+#: inc/modules/hf-builder/components/header/html/customize-options.php:400
+#: inc/modules/hf-builder/components/header/logo/customize-options.php:323
+#: inc/modules/hf-builder/components/header/menu/customize-options.php:217
+#: inc/modules/hf-builder/components/header/mobile-hamburger/customize-options.php:213
+#: inc/modules/hf-builder/components/header/mobile-offcanvas-menu/customize-options.php:264
+#: inc/modules/hf-builder/components/header/mobile-offcanvas/customize-options.php:283
+#: inc/modules/hf-builder/components/header/search/customize-options.php:281
+#: inc/modules/hf-builder/components/header/secondary-menu/customize-options.php:398
+#: inc/modules/hf-builder/components/header/social/customize-options.php:294
+#: inc/modules/hf-builder/components/header/wc-icons/customize-options.php:288
+msgid "Wrapper Margin"
+msgstr "Внешний отступ обёртки"
+
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:129
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:298
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:188
+#: inc/modules/hf-builder/components/header/row/customize-options.php:332
+msgid "Background Image"
+msgstr "Изображение фона"
+
+#: inc/modules/hf-builder/components/footer/social/customize-options.php:133
+#: inc/modules/hf-builder/components/header/contact-info/customize-options.php:171
+#: inc/modules/hf-builder/components/header/contact-info/customize-options.php:259
+#: inc/modules/hf-builder/components/header/social/customize-options.php:135
+#: inc/modules/hf-builder/components/header/social/customize-options.php:190
+#: inc/modules/hf-builder/components/header/wc-icons/customize-options.php:140
+#: inc/modules/hf-builder/components/header/wc-icons/customize-options.php:195
+msgid "Icons Color"
+msgstr "Цвет значков"
+
+#: inc/plugins/woocommerce/features/no-posts-found.php:23
+msgid "Popular Products"
+msgstr "Популярные товары"
+
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:202
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:371
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:261
+#: inc/modules/hf-builder/components/header/row/customize-options.php:405
+msgid "Repeat"
+msgstr "Повтор"
+
+#: inc/dashboard/html-settings.php:63
+msgid "Activate this option to load the Google fonts locally."
+msgstr "Активируйте эту опцию, чтобы загрузить шрифты Google локально."
+
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:77
+msgid "Global Footer"
+msgstr "Глобальный подвал"
+
+#: inc/modules/hf-builder/components/footer/button/customize-options.php:159
+#: inc/modules/hf-builder/components/footer/copyright/customize-options.php:101
+#: inc/modules/hf-builder/components/footer/html/customize-options.php:173
+#: inc/modules/hf-builder/components/footer/social/customize-options.php:103
+#: inc/modules/hf-builder/components/footer/widget-1/customize-options.php:106
+#: inc/modules/hf-builder/components/footer/widget-2/customize-options.php:106
+#: inc/modules/hf-builder/components/footer/widget-3/customize-options.php:106
+#: inc/modules/hf-builder/components/footer/widget-4/customize-options.php:106
+#: inc/modules/hf-builder/components/header/button/customize-options.php:120
+#: inc/modules/hf-builder/components/header/contact-info/customize-options.php:136
+#: inc/modules/hf-builder/components/header/html/customize-options.php:179
+#: inc/modules/hf-builder/components/header/logo/customize-options.php:186
+#: inc/modules/hf-builder/components/header/menu/customize-options.php:128
+#: inc/modules/hf-builder/components/header/mobile-hamburger/customize-options.php:103
+#: inc/modules/hf-builder/components/header/mobile-offcanvas-menu/customize-options.php:109
+#: inc/modules/hf-builder/components/header/search/customize-options.php:103
+#: inc/modules/hf-builder/components/header/secondary-menu/customize-options.php:110
+#: inc/modules/hf-builder/components/header/social/customize-options.php:105
+#: inc/modules/hf-builder/components/header/wc-icons/customize-options.php:110
+msgid "Visible"
+msgstr "Видимый"
+
+#: inc/modules/hf-builder/components/footer/button/customize-options.php:160
+#: inc/modules/hf-builder/components/footer/copyright/customize-options.php:102
+#: inc/modules/hf-builder/components/footer/html/customize-options.php:174
+#: inc/modules/hf-builder/components/footer/social/customize-options.php:104
+#: inc/modules/hf-builder/components/footer/widget-1/customize-options.php:107
+#: inc/modules/hf-builder/components/footer/widget-2/customize-options.php:107
+#: inc/modules/hf-builder/components/footer/widget-3/customize-options.php:107
+#: inc/modules/hf-builder/components/footer/widget-4/customize-options.php:107
+#: inc/modules/hf-builder/components/header/button/customize-options.php:121
+#: inc/modules/hf-builder/components/header/contact-info/customize-options.php:137
+#: inc/modules/hf-builder/components/header/html/customize-options.php:180
+#: inc/modules/hf-builder/components/header/logo/customize-options.php:187
+#: inc/modules/hf-builder/components/header/menu/customize-options.php:129
+#: inc/modules/hf-builder/components/header/mobile-hamburger/customize-options.php:104
+#: inc/modules/hf-builder/components/header/mobile-offcanvas-menu/customize-options.php:110
+#: inc/modules/hf-builder/components/header/search/customize-options.php:104
+#: inc/modules/hf-builder/components/header/secondary-menu/customize-options.php:111
+#: inc/modules/hf-builder/components/header/social/customize-options.php:106
+#: inc/modules/hf-builder/components/header/wc-icons/customize-options.php:111
+msgid "Hidden"
+msgstr "Скрытый"
+
+#: inc/customizer/options/woocommerce.php:1807
+#: inc/modules/hf-builder/components/footer/button/customize-options.php:312
+#: inc/modules/hf-builder/components/footer/copyright/customize-options.php:193
+#: inc/modules/hf-builder/components/footer/html/customize-options.php:265
+#: inc/modules/hf-builder/components/footer/social/customize-options.php:174
+#: inc/modules/hf-builder/components/footer/widget-1/customize-options.php:219
+#: inc/modules/hf-builder/components/footer/widget-2/customize-options.php:219
+#: inc/modules/hf-builder/components/footer/widget-3/customize-options.php:219
+#: inc/modules/hf-builder/components/footer/widget-4/customize-options.php:219
+#: inc/modules/hf-builder/components/header/button/customize-options.php:422
+#: inc/modules/hf-builder/components/header/contact-info/customize-options.php:335
+#: inc/modules/hf-builder/components/header/html/customize-options.php:349
+#: inc/modules/hf-builder/components/header/logo/customize-options.php:272
+#: inc/modules/hf-builder/components/header/menu/customize-options.php:166
+#: inc/modules/hf-builder/components/header/mobile-hamburger/customize-options.php:162
+#: inc/modules/hf-builder/components/header/mobile-offcanvas-menu/customize-options.php:213
+#: inc/modules/hf-builder/components/header/mobile-offcanvas/customize-options.php:232
+#: inc/modules/hf-builder/components/header/search/customize-options.php:230
+#: inc/modules/hf-builder/components/header/secondary-menu/customize-options.php:347
+#: inc/modules/hf-builder/components/header/social/customize-options.php:243
+#: inc/modules/hf-builder/components/header/wc-icons/customize-options.php:237
+msgid "Wrapper Padding"
+msgstr "Внутренний отступ обёртки"
+
+#: inc/customizer/options/woocommerce.php:1660
+msgid "Enable Popular Products"
+msgstr "Включить популярные товары"
+
+#: inc/dashboard/class-dashboard-settings.php:377
+msgid "Google Autocomplete"
+msgstr "Автозаполнение Google"
+
+#: inc/dashboard/class-dashboard-settings.php:378
+msgid "Help customers autocomplete their addresses on checkout with Google Maps API."
+msgstr "Помогите клиентам автоматически заполнять свои адреса при оформлении заказа с помощью Google Maps API."
+
+#: inc/dashboard/class-dashboard-settings.php:428
+msgid "Quantity Step Control"
+msgstr "Управление шагом количества"
+
+#: inc/customizer/options/woocommerce.php:1661
+msgid "Show popular products if no products found in search results page."
+msgstr "Показать популярные товары, если товары не найдены на странице результатов поиска."
+
+#: inc/plugins/dokan/dokan.php:172 inc/plugins/wc-vendors/wc-vendors.php:20
+msgid "Vendor Dashboard"
+msgstr "Консоль продавца"
+
+#: inc/customizer/controls/dimensions/class_botiga_dimensions_control.php:49
+#: inc/customizer/controls/dimensions/class_botiga_dimensions_control.php:65
+#: inc/customizer/controls/dimensions/class_botiga_dimensions_control.php:80
+msgid "Link values together"
+msgstr "Объединить значения друг с другом"
+
+#: inc/dashboard/class-dashboard-settings.php:429
+msgid "Set the min, max, step and default preset from all quantity inputs."
+msgstr "Установите мин., макс. значение, шаг и предустановку по умолчанию для всех количественных входов."
+
+#: inc/dashboard/html-starter-sites.php:47
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: inc/dashboard/html-home.php:167 inc/dashboard/part-support.php:41
+msgid "Premium Support"
+msgstr "Премиум поддержка"
+
+#: inc/dashboard/html-home.php:174
+msgid "Leave A Review"
+msgstr "Оставить отзыв"
+
+#: inc/dashboard/html-starter-sites.php:30
+msgid "Install and Activate"
+msgstr "Установить и активировать"
+
+#: inc/dashboard/html-starter-sites.php:46
+msgid "Import"
+msgstr "Импорт"
+
+#: inc/dashboard/html-useful-plugins.php:46
+msgid "Install"
+msgstr "Установить"
+
+#: inc/dashboard/html-useful-plugins.php:52
+msgid "More Details"
+msgstr "Детали"
+
+#: inc/modules/hf-builder/components/footer/button/customize-options.php:176
+msgid "Colors"
+msgstr "Цвета"
+
+#: inc/modules/hf-builder/components/header/button/customize-options.php:223
+msgid "Button Color"
+msgstr "Цвет кнопки"
+
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:139
+msgid "All Rows"
+msgstr "Все строки"
+
+#: inc/plugins/dokan/dokan.php:85
+msgid "Vendor"
+msgstr "Продавец"
+
+#: inc/plugins/dokan/dokan.php:116
+msgid "Register Now"
+msgstr "Зарегистрируйтесь сейчас"
+
+#: inc/dashboard/html-home.php:75
+msgid "View Documentation"
+msgstr "Посмотреть документацию"
+
+#: inc/dashboard/html-home.php:98
+msgid "Video Tutorial"
+msgstr "Обучающее видео"
+
+#: inc/plugins/dokan/dokan.php:105
+msgid "Contact"
+msgstr "Контакт"
+
+#: inc/plugins/dokan/dokan.php:112
+msgid "See All Products"
+msgstr "Посмотреть все товары"
+
+#. Template Name of the theme
+msgid "Botiga Canvas"
+msgstr "Botiga Canvas"
+
+#: inc/dashboard/html-home.php:157
+msgid "5+ Starter Sites"
+msgstr "Более 5 стартовых сайта"
+
+#: inc/dashboard/html-home.php:162
+msgid "Advanced Reviews"
+msgstr "Расширенные обзоры"
+
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:84
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:421
+msgid "Header Layouts"
+msgstr "Макеты заголовка"
+
+#: inc/plugins/dokan/dokan.php:94
+msgid "Address"
+msgstr "Адрес"
+
+#: inc/dashboard/html-home.php:100
+msgid "Explore our library of video lessons."
+msgstr "Изучите нашу библиотеку видеоуроков."
+
+#: inc/dashboard/html-home.php:164
+msgid "Extra Checkout Layouts"
+msgstr "Дополнительные макеты Оформление заказа"
+
+#: inc/dashboard/html-home.php:82
+msgid "Got an idea for how to improve Botiga? Let us know."
+msgstr "Есть идея, как улучшить Botiga? Дайте нам знать."
+
+#: inc/dashboard/html-starter-sites.php:28
+msgid "In order to be able to import any starter sites for Botiga you need to have the aThemes demo importer plugin active."
+msgstr "Чтобы иметь возможность импортировать любые стартовые сайты для Botiga, вам необходимо активировать подключаемый модуль импорта демо-версий aThemes."
+
+#: inc/dashboard/html-home.php:72
+msgid "Learn everything you need to know about how to use Botiga."
+msgstr "Узнайте все, что вам нужно знать о том, как использовать Botiga."
+
+#: inc/dashboard/html-home.php:165
+msgid "Product Video/Audio Gallery"
+msgstr "Галерея товара видео/аудио"
+
+#: inc/dashboard/html-home.php:103
+msgid "View Video Tutorials"
+msgstr "Посмотреть видеоуроки"
+
+#: inc/dashboard/html-home.php:54
+msgid "Set Hooks"
+msgstr "Установить Hooks"
+
+#: inc/dashboard/html-home.php:130
+msgid "Stay in touch via our social media channels to receive the latest announcements and updates."
+msgstr "Оставайтесь на связи в наших соцсетях, чтобы получать последние новости и информацию об обновлениях."
+
+#: inc/dashboard/html-home.php:128
+msgid "Stay In Touch With Us"
+msgstr "Оставайтесь на связи с нами"
+
+#: inc/dashboard/html-home.php:161
+msgid "Sticky Add to Cart"
+msgstr "Прикрепленный Добавить в корзину"
+
+#: inc/plugins/dokan/dokan.php:55
+msgid "Vendor Info"
+msgstr "Информация о продавце"
+
+#: inc/plugins/dokan/dokan.php:115
+msgid "Become a vendor?"
+msgstr "Стать продавцом?"
+
+#: inc/dashboard/html-home.php:55
+msgid "Modal Popup Options"
+msgstr "Параметры модального всплывающего окна"
+
+#: inc/customizer/options/navigation.php:41
+msgid "Background"
+msgstr "Фон"
+
+#: inc/dashboard/class-dashboard.php:94
+msgid "Activated"
+msgstr "Активировано"
+
+#: inc/dashboard/html-home.php:45
+msgid "Header Options"
+msgstr "Параметры заголовка"
+
+#: inc/customizer/options/blog-single.php:623
+#: inc/customizer/options/blog.php:627 inc/customizer/options/buttons.php:72
+#: inc/customizer/options/woocommerce-single.php:463
+#: inc/customizer/options/woocommerce.php:1195
+msgid "Custom"
+msgstr "Произвольно"
+
+#: inc/customizer/options/navigation.php:144
+msgid "Extensions"
+msgstr "Расширения"
+
+#: inc/customizer/options/navigation.php:7
+msgid "Navigation"
+msgstr "Навигация"
+
+#: inc/dashboard/class-dashboard-settings.php:92
+msgid "Home"
+msgstr "Главная"
+
+#: inc/customizer/options/typography.php:15
+msgid "Manage the typography settings for different elements."
+msgstr "Управляйте настройками типографики для различных элементов."
+
+#: inc/customizer/options/navigation.php:35
+msgid "Manage palettes and the default color of different global elements on the site."
+msgstr "Управление палитрами и стандартных цветом для различных глобальных элементов сайта."
+
+#: inc/customizer/controls/color-group/class_botiga_color_group.php:30
+msgid "Hover"
+msgstr "При наведении"
+
+#: inc/customizer/controls/custom-fonts/class_botiga_typography_custom_control.php:81
+#: inc/dashboard/class-dashboard-settings.php:326
+msgid "Custom Fonts"
+msgstr "Пользовательские шрифты"
+
+#: inc/dashboard/class-dashboard-settings.php:458
+msgid "Modal Popup"
+msgstr "Модальное всплывающее окно"
+
+#: inc/dashboard/class-dashboard-settings.php:476
+msgid "Login Popup"
+msgstr "Всплывающее окно входа"
+
+#: inc/dashboard/class-dashboard-settings.php:609
+msgid "Get Pro"
+msgstr "Получить Pro"
+
+#: inc/dashboard/class-dashboard.php:90
+msgid "Installing..."
+msgstr "Установка..."
+
+#: inc/dashboard/class-dashboard.php:91
+msgid "Activating..."
+msgstr "Активация ..."
+
+#: inc/dashboard/class-dashboard.php:93
+msgid "Redirecting..."
+msgstr "Переадресация…"
+
+#: inc/dashboard/class-dashboard.php:95
+msgid "Deactivated"
+msgstr "Деактивировано"
+
+#: inc/dashboard/html-home.php:33
+msgid "Typography Options"
+msgstr "Параметры типографии"
+
+#: inc/dashboard/html-home.php:34
+msgid "Layout Options"
+msgstr "Параметры макета"
+
+#: inc/dashboard/html-home.php:40
+msgid "Footer Options"
+msgstr "Параметры подвала"
+
+#: inc/dashboard/html-home.php:41
+msgid "Homepage Settings"
+msgstr "Настройки главной страницы"
+
+#: inc/dashboard/html-home.php:53
+msgid "Sidebar Options"
+msgstr "Параметры области виджетов"
+
+#: inc/customizer/controls/class_botiga_text_style_control.php:28
+msgid "Decoration"
+msgstr "Оформление"
+
+#: inc/customizer/controls/class_botiga_text_style_control.php:45
+msgid "Letter Case"
+msgstr "Регистр букв"
+
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:166
+msgid "Add New Font"
+msgstr "Добавить новый шрифт"
+
+#: inc/customizer/options/blog-single.php:619
+#: inc/customizer/options/blog.php:623 inc/customizer/options/buttons.php:68
+#: inc/customizer/options/woocommerce-single.php:459
+#: inc/customizer/options/woocommerce.php:1191
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: inc/customizer/options/blog-single.php:621
+#: inc/customizer/options/blog.php:625 inc/customizer/options/buttons.php:71
+#: inc/customizer/options/woocommerce-single.php:461
+#: inc/customizer/options/woocommerce.php:1193
+msgid "Heading"
+msgstr "Заголовок"
+
+#: inc/customizer/options/blog-single.php:724
+#: inc/customizer/options/blog-single.php:824
+#: inc/customizer/options/blog.php:718 inc/customizer/options/blog.php:814
+#: inc/customizer/options/blog.php:884
+#: inc/customizer/options/typography.php:791
+#: inc/customizer/options/woocommerce-single.php:552
+#: inc/customizer/options/woocommerce-single.php:644
+#: inc/customizer/options/woocommerce.php:1284
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: inc/customizer/options/navigation.php:162
+msgid "Core"
+msgstr "Ядро"
+
+#: inc/dashboard/class-dashboard-settings.php:96
+msgid "Useful Plugins"
+msgstr "Полезные плагины"
+
+#: inc/dashboard/class-dashboard-settings.php:162
+msgid "WPForms"
+msgstr "WPForms"
+
+#: inc/dashboard/class-dashboard.php:92
+msgid "Deactivating..."
+msgstr "Деактивация..."
+
+#: inc/customizer/options/navigation.php:24
+msgid "Site Styles"
+msgstr "Стили сайта"
+
+#: inc/dashboard/class-dashboard-settings.php:171
+msgid "HubSpot"
+msgstr "HubSpot"
+
+#: inc/dashboard/html-home.php:38
+msgid "Set Background"
+msgstr "Установить фон"
+
+#: inc/dashboard/html-home.php:46
+msgid "Set Menus"
+msgstr "Установить меню"
+
+#: inc/dashboard/html-home.php:47
+msgid "Blog Layouts"
+msgstr "Макеты блога"
+
+#: inc/dashboard/html-home.php:48
+msgid "Single Posts Options"
+msgstr "Параметры отдельной записи"
+
+#: inc/dashboard/html-home.php:52
+msgid "Set Widgets"
+msgstr "Установить виджеты"
+
+#: inc/customizer/options/woocommerce-single.php:210
+msgid "Ajax Add To Cart"
+msgstr "Ajax добавления в корзину"
+
+#: inc/dashboard/html-settings.php:62
+msgid "Load Google Fonts"
+msgstr "Загрузить шрифты Google"
+
+#: inc/dashboard/class-dashboard-settings.php:153
+msgid "aThemes Blocks"
+msgstr "aThemes Blocks"
+
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:53
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:106
+msgid "Font Name"
+msgstr "Название шрифта"
+
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:59
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:113
+msgid "Font .woff2"
+msgstr "Шрифт формата .woff2"
+
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:66
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:121
+msgid "Font .woff"
+msgstr "Шрифт формата .woff"
+
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:73
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:129
+msgid "Font .ttf"
+msgstr "Шрифт формата .ttf"
+
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:80
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:137
+msgid "Font .eot"
+msgstr "Шрифт формата .eot"
+
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:87
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:145
+msgid "Font .otf"
+msgstr "Шрифт формата .otf"
+
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:94
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:153
+msgid "Font .svg"
+msgstr "Шрифт формата .svg"
+
+#: inc/customizer/controls/custom-fonts/class_botiga_typography_custom_control.php:80
+msgid "System default"
+msgstr "Система по умолчанию"
+
+#: inc/dashboard/class-dashboard-settings.php:579
+msgid "Templates Builder"
+msgstr "Конструктор шаблонов"
+
+#: inc/dashboard/class-dashboard-settings.php:555
+msgid "Allows users to connect a group of any product types together by attribute(s) while they can still be managed as separate products."
+msgstr "Позволяет пользователям объединять группы товаров любых типов по атрибутам, при этом ими можно управлять как отдельными товарами."
+
+#: inc/dashboard/class-dashboard-settings.php:485
+msgid "Create any number of custom sidebars."
+msgstr "Создавайте любое количество пользовательских областей виджетов."
+
+#: inc/dashboard/class-dashboard-settings.php:439
+msgid "Create beautiful and unique mega menus."
+msgstr "Создавайте красивые и уникальные мега-меню."
+
+#: inc/dashboard/class-dashboard-settings.php:580
+msgid "Create custom templates for shop catalog, single products, 404 page, mega menu, modal popup and hooks."
+msgstr "Создавайте пользовательские шаблоны для каталога магазина, отдельных товаров, страницы 404, мега-меню, модального всплывающего окна и hooks."
+
+#: inc/dashboard/class-dashboard-settings.php:260
+msgid "Create your own button, set typography and styles."
+msgstr "Создайте свою собственную кнопку, задайте типографику и стили."
+
+#: inc/dashboard/class-dashboard-settings.php:199
+msgid "Create your own palette and set the global colors."
+msgstr "Создайте свою собственную палитру и установите глобальные цвета."
+
+#: inc/dashboard/class-dashboard-settings.php:484
+#: inc/dashboard/html-home.php:166
+msgid "Custom Sidebars"
+msgstr "Настраиваемые области виджетов"
+
+#: inc/dashboard/class-dashboard-settings.php:469
+msgid "Display a table of contents inside your blog posts."
+msgstr "Отображение оглавления в записях блога."
+
+#: inc/dashboard/class-dashboard-settings.php:515
+msgid "Enable your customers to see all the available color, size, and other options as beautiful product swatches."
+msgstr "Дайте вашим клиентам возможность увидеть все доступные цвета, размеры и другие опции в виде красивых образцов товара."
+
+#: inc/customizer/options/typography.php:21
+msgid "Global Text Styles"
+msgstr "Глобальные стили текста"
+
+#: inc/dashboard/class-dashboard-settings.php:368
+msgid "Increase your store conversion rate with the distraction free checkout."
+msgstr "Увеличьте коэффициент конверсии вашего магазина с помощью Оформления заказа не отвлекающего внимания ."
+
+#: inc/dashboard/class-dashboard-settings.php:556
+msgid "Linked Variations"
+msgstr "Связанные вариации"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:113
+msgid "Product Category Name"
+msgstr "Название категории товара"
+
+#: inc/customizer/options/woocommerce-single.php:674
+msgid "Product price color"
+msgstr "Цвет цены товара"
+
+#: inc/dashboard/class-dashboard-settings.php:514
+msgid "Product Swatches"
+msgstr "Образцы товаров"
+
+#: inc/dashboard/class-dashboard-settings.php:572
+msgid "Product Variations Gallery"
+msgstr "Галерея разновидностей товара"
+
+#: inc/dashboard/class-dashboard-settings.php:564
+msgid "Product Video Gallery"
+msgstr "Видео галерея товара"
+
+#: inc/dashboard/class-dashboard-settings.php:535
+msgid "Replace the default WooCommerce reviews workflow and style with a modern and intuitive star rating reviews."
+msgstr "Замените стандартный рабочий процесс и стиль отзывов WooCommerce на современный и интуитивно понятный звездный рейтинг отзывов."
+
+#: inc/customizer/options/colors.php:457
+msgid "Reset Styles to Defaults"
+msgstr "Сбросить стили к значениям по умолчанию"
+
+#: inc/customizer/options/header.php:339
+msgid "Scroll Back"
+msgstr "Прокрутить назад"
+
+#: inc/customizer/upsell/class-customize.php:80
+msgid "View Pro Features"
+msgstr "Посмотреть возможности Pro"
+
+#: inc/dashboard/class-dashboard-settings.php:554
+msgid "Product Linked Variations"
+msgstr "Вариации, связанные с товаром"
+
+#: inc/dashboard/class-dashboard-settings.php:317
+msgid "Set and use Adobe Fonts."
+msgstr "Установите и используйте шрифты Adobe."
+
+#: inc/dashboard/html-home.php:32
+msgid "Set Colors"
+msgstr "Установить цвета"
+
+#: inc/dashboard/class-dashboard-settings.php:573
+msgid "Set different galleries for product each product variation."
+msgstr "Установите разные галереи для каждой разновидности товара."
+
+#: inc/dashboard/html-hero.php:52
+msgid "Start Building Your Website"
+msgstr "Начните создавать свой веб-сайт"
+
+#: inc/dashboard/class-dashboard-settings.php:163
+msgid "The best WordPress contact form plugin. Drag & Drop online form builder that helps you create beautiful contact forms + custom forms in minutes."
+msgstr "Лучший плагин контактной формы WordPress. Конструктор онлайн-форм перетаскивания, который поможет вам создавать красивые контактные формы + настраиваемые формы за считанные минуты."
+
+#: inc/dashboard/html-home.php:31
+msgid "Update Logo"
+msgstr "Обновите логотипа"
+
+#: inc/dashboard/class-dashboard-settings.php:327
+msgid "Upload your own custom fonts."
+msgstr "Загрузите свои собственные шрифты."
+
+#: inc/dashboard/class-dashboard-settings.php:449
+msgid "Your customers can save their favorite products to find them easily when they're ready to buy."
+msgstr "Ваши клиенты могут сохранять свои любимые товары, чтобы легко найти их, когда они будут готовы купить."
+
+#: inc/dashboard/class-dashboard-settings.php:545
+msgid "Add custom size charts to your products, e.g. size charts for clothes, shoes, bags, or jewelry."
+msgstr "Добавьте пользовательские таблицы размеров к своим товарам, например. таблицы размеров одежды, обуви, сумок или украшений."
+
+#: inc/dashboard/class-dashboard-settings.php:565
+msgid "Add videos to your products along with the image gallery. Featured videos to display in the shop catalog page are available as well."
+msgstr "Добавляйте видео к своим товарам вместе с галереей изображений. Также доступны избранные видео для отображения на странице каталога магазина."
+
+#: inc/dashboard/html-hero.php:71
+msgid "Clicking “Get Started” button will install and activate the Botiga starter plugin."
+msgstr "Нажав кнопку “Get Started”, вы установите и активируете стартовый плагин Botiga."
+
+#: inc/dashboard/html-home.php:25
+msgid "Commonly Used Features"
+msgstr "Часто используемые функции"
+
+#: inc/dashboard/class-dashboard-settings.php:525
+msgid "Display a sticky add-to-cart button on your product single page. It will stay visible as the user explores the product."
+msgstr "Отобразите прикрепленную кнопку Добавить в корзину на отдельной странице вашего товара. Он останется видимым, пока пользователь исследует товар."
+
+#: inc/dashboard/class-dashboard-settings.php:477
+msgid "Display the login/register form inside a popup."
+msgstr "Отображать форму входа/регистрации во всплывающем окне."
+
+#: inc/dashboard/class-dashboard-settings.php:459
+msgid "Displays a modal popup to highlight any content. Display conditions are available."
+msgstr "Отображает модальное всплывающее окно для выделения какого-либо содержимого. Доступны условия отображения."
+
+#: inc/dashboard/class-dashboard-settings.php:505
+msgid "Floating quick links bar (contact, social, etc)."
+msgstr "Плавающая панель быстрых ссылок (контакты, соцсети и т. д.)."
+
+#: inc/dashboard/class-dashboard-settings.php:172
+msgid "HubSpot is a platform with all the tools and integrations you need for marketing, sales, and customer service."
+msgstr "HubSpot - это платформа со всеми инструментами и интеграциями, необходимыми для маркетинга, продаж и обслуживания клиентов."
+
+#: inc/dashboard/class-dashboard-settings.php:546
+msgid "Size Charts"
+msgstr "Таблицы размеров"
+
+#: inc/dashboard/class-dashboard-settings.php:244
+msgid "Set the blog layout, columns, pagination and styles."
+msgstr "Установите макет блога, столбцы, разбиение на страницы и стили."
+
+#: inc/dashboard/class-dashboard-settings.php:495
+msgid "Set the breadcrumb engine, spacing and styles."
+msgstr "Установите механизм хлебных крошек, интервалы и стили."
+
+#: inc/dashboard/class-dashboard-settings.php:284
+msgid "Set the cart layout, mini cart and more. Side off-canvas mini cart available on Botiga Pro."
+msgstr "Установите макет корзины, мини-корзину и многое другое. Боковая мини-тележка вне экрана доступна на Botiga Pro."
+
+#: inc/dashboard/class-dashboard-settings.php:292
+msgid "Set the checkout layout, coupon and more. Multi-step, one-step and shopify checkout are avilable on Botiga Pro."
+msgstr "Установите макет оформления заказа, купон и многое другое. На Botiga Pro доступны многоэтапное, одноэтапное оформление заказа."
+
+#: inc/dashboard/class-dashboard-settings.php:235
+#: inc/dashboard/class-dashboard-settings.php:419
+msgid "Set the copyright text, layout and styles."
+msgstr "Установите текст авторского права, макет и стили."
+
+#: inc/dashboard/class-dashboard-settings.php:344
+msgid "Set the gallery slideshow layout and more."
+msgstr "Установите макет слайд-шоу галереи и многое другое."
+
+#: inc/dashboard/class-dashboard-settings.php:191
+msgid "Set the global font size, style and library."
+msgstr "Установите глобальный размер шрифта, стиль и библиотеку."
+
+#: inc/dashboard/class-dashboard-settings.php:219
+msgid "Set the main header layout, elements and styles."
+msgstr "Установите основной макет заголовка, элементы и стили."
+
+#: inc/dashboard/class-dashboard-settings.php:227
+msgid "Set the mobile header layout, elements and styles."
+msgstr "Установите макет мобильного заголовка, элементы и стили."
+
+#: inc/dashboard/class-dashboard-settings.php:276
+msgid "Set the product layout, tabs, size chart and more."
+msgstr "Установите макет товара, вкладки, таблицу размеров и многое другое."
+
+#: inc/dashboard/class-dashboard-settings.php:300
+msgid "Set the scroll to top type, icon, position and styles."
+msgstr "Установите тип прокрутку на верх, значок, положение и стили."
+
+#: inc/dashboard/class-dashboard-settings.php:336
+msgid "Set the shop header colors, spacing and more."
+msgstr "Установите цвета заголовка магазина, интервалы и многое другое."
+
+#: inc/dashboard/class-dashboard-settings.php:268
+msgid "Set the shop layout, product cart and more."
+msgstr "Установите макет магазина, корзину товара и многое другое."
+
+#: inc/dashboard/class-dashboard-settings.php:360
+msgid "Set the shop sidebar layout, position and more."
+msgstr "Установите макет области виджетов магазина, положение и многое другое."
+
+#: inc/dashboard/class-dashboard-settings.php:252
+msgid "Set the single post layout, meta elements and styles."
+msgstr "Установите макет отдельной записи, мета-элементы и стили."
+
+#: inc/dashboard/class-dashboard-settings.php:352
+msgid "Set the tab layout, position, alignment and more."
+msgstr "Установите макет вкладки, положение, выравнивание и многое другое."
+
+#: inc/dashboard/class-dashboard-settings.php:183
+msgid "Set the title and upload logo."
+msgstr "Установите заголовок и загрузите логотип."
+
+#: inc/dashboard/class-dashboard-settings.php:544
+msgid "Single Product Size Chart"
+msgstr "Таблица размеров отдельного товара"
+
+#: inc/dashboard/class-dashboard-settings.php:534
+msgid "Single Product Advanced Reviews"
+msgstr "Расширенные обзоры отдельного товара"
+
+#: inc/dashboard/class-dashboard-settings.php:468
+msgid "Single Post Table of Contents"
+msgstr "Оглавление отдельной записи"
+
+#: inc/customizer/options/colors.php:202
+#: inc/customizer/options/woocommerce.php:1766
+#: inc/modules/hf-builder/components/footer/html/customize-options.php:224
+#: inc/modules/hf-builder/components/header/html/customize-options.php:230
+#: inc/modules/hf-builder/components/header/html/customize-options.php:307
+msgid "Link Color"
+msgstr "Цвет ссылки"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:64
+#: inc/modules/hf-builder/class-header-footer-builder.php:104
+msgid "Site Identity"
+msgstr "Свойства сайта"
+
+#: inc/dashboard/class-dashboard-settings.php:504
+msgid "Quick Links"
+msgstr "Быстрые ссылки"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:220
+msgid "404"
+msgstr "404"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:37
+msgid "Archives"
+msgstr "Архивы"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:92
+#: inc/customizer/options/woocommerce-single.php:14
+msgid "Single Product"
+msgstr "Отдельный товар"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:204
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:268
+msgid "Other"
+msgstr "Другой"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:14
+msgid "Include"
+msgstr "Включить"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:52
+msgid "Post Archives"
+msgstr "Архивы записей"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:44
+msgid "Posts"
+msgstr "Записи"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:48
+msgid "Single Post"
+msgstr "Отдельная запись"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:56
+msgid "Post Categories"
+msgstr "Рубрики записи"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:60
+msgid "Post Tags"
+msgstr "Теги записи"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:71
+msgid "Single Page"
+msgstr "Отдельная страница"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:80
+#: inc/customizer/options/navigation.php:71
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:100
+msgid "Product Categories"
+msgstr "Категории товара"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:104
+msgid "Product Tags"
+msgstr "Метки товаров"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:143
+msgid "Specific"
+msgstr "Конкретный"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:152
+msgid "Page Name"
+msgstr "Название страницы"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:157
+msgid "Category Name"
+msgstr "Название категории"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:167
+msgid "Author Name"
+msgstr "Имя автора"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:180
+msgid "Custom Post Types"
+msgstr "Пользовательские типы записей"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:224
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:272
+msgid "Author"
+msgstr "Автор"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:228
+msgid "Privacy Policy Page"
+msgstr "Страница политики конфиденциальности"
+
+#: inc/customizer/options/colors.php:156
+msgid "Content Background Color"
+msgstr "Цвет фона содержимого"
+
+#: inc/customizer/options/typography.php:63
+msgid "Header Menu"
+msgstr "Заголовок меню"
+
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:80
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:86
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:115
+msgid "Main Row"
+msgstr "Основной ряд"
+
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:79
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:85
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:116
+msgid "Top Row"
+msgstr "Верхний ряд"
+
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:81
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:87
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:117
+msgid "Bottom Row"
+msgstr "Нижний ряд"
+
+#: inc/customizer/controls/custom-sidebars/class_botiga_custom_sidebars_control.php:58
+#: inc/customizer/controls/custom-sidebars/class_botiga_custom_sidebars_control.php:96
+msgid "Display Conditions"
+msgstr "Условия отображения"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:19
+msgid "Exclude"
+msgstr "Исключено"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:24
+msgid "Entire Site"
+msgstr "Весь сайт"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:96
+msgid "Product Archives"
+msgstr "Архивы товара"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:147
+msgid "Post Name"
+msgstr "Название записи"
+
+#: inc/customizer/options/layout.php:32
+msgid "Site Layout"
+msgstr "Макет сайта"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:391
+msgid "Add Display Condition"
+msgstr "Добавление условия отображения"
+
+#: inc/customizer/controls/custom-sidebars/class_botiga_custom_sidebars_control.php:114
+msgid "Add New Sidebar"
+msgstr "Добавить новую область виджетов"
+
+#: inc/customizer/options/layout.php:53
+msgid "Content Width"
+msgstr "Ширина содержимого"
+
+#: inc/customizer/controls/display-conditions/class_botiga_display_conditions_control.php:69
+msgid "Add/Edit Conditions"
+msgstr "Условия добавить/изменить"
+
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:110
+msgid "Apply Transparent Header To"
+msgstr "Применить прозрачный заголовок к"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:29
+msgid "Basic"
+msgstr "Базовый"
+
+#: inc/customizer/options/header.php:36
+msgid "Header Image Display Conditions"
+msgstr "Условия отображения изображения в заголовке"
+
+#: inc/customizer/options/header.php:229
+msgid "Header Transparent Display Conditions"
+msgstr "Условия отображения прозрачного заголовка"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:396
+msgid "Save Conditions"
+msgstr "Сохранить условия"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:247
+msgid "User Auth"
+msgstr "Авторизация пользователя"
+
+#: inc/customizer/controls/custom-sidebars/class_botiga_custom_sidebars_control.php:38
+#: inc/customizer/controls/custom-sidebars/class_botiga_custom_sidebars_control.php:87
+msgid "Sidebar Display Conditions"
+msgstr "Условия отображения области виджетов"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:33
+msgid "Singulars"
+msgstr "Одиночная"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:162
+msgid "Tag Name"
+msgstr "Название тэга"
+
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:404
+msgid "The header stays over the content. You need to manually change the background color from each header builder row to be transparent."
+msgstr "Заголовок остается над содержимым. Необходимо вручную изменить цвет фона каждого ряда конструктора заголовка на прозрачный."
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:251
+msgid "User Logged In"
+msgstr "Пользователь вошел в систему"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:255
+msgid "User Logged Out"
+msgstr "Пользователь вышел из системы"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:262
+msgid "User Roles"
+msgstr "Роли пользователей"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:392
+msgid "Add User Condition"
+msgstr "Добавить пользовательское условие"
+
+#: inc/classes/class-botiga-metabox.php:251
+msgid "Botiga Linked Variation Options"
+msgstr "Параметры связанных вариаций Botiga"
+
+#: inc/customizer/options/layout.php:75
+msgid "Boxed Layout Width"
+msgstr "Ширина фиксированного макета"
+
+#: inc/customizer/options/layout.php:141
+msgid "Fluid Layout Spacing"
+msgstr "Гибкий интервал между макета"
+
+#: inc/modules/hf-builder/components/header/row/customize-options.php:222
+msgid "Fluid Width"
+msgstr "Гибкая ширина"
+
+#: functions.php:519
+msgid "Plugins"
+msgstr "Плагины"
+
+#. Translators: %s plugins html anchor link.
+#: functions.php:516
+msgid "It looks like your website is running Botiga Pro but not with its latest version. Please note that Botiga 1.1.9+ (free theme) requires Botiga Pro updated to a minimum version of 1.1.0. For it please go to %s and update Botiga Pro."
+msgstr "Похоже, что на вашем сайте установлена Botiga Pro, но не последняя версия. Обратите внимание, что Botiga 1.1.9+ (бесплатная тема) требует обновления Botiga Pro до мин. версии 1.1.0. Для этого перейдите в %s и обновите Botiga Pro."
+
+#: inc/modules/hf-builder/components/header/search/customize-options.php:133
+#: inc/modules/hf-builder/components/header/search/customize-options.php:188
+msgid "Icon Color"
+msgstr "Цвет значка"
+
+#: inc/classes/class-botiga-metabox.php:798
+#: inc/classes/class-botiga-metabox.php:842
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:189
+msgid "Footer Menu"
+msgstr "Меню подвала"
+
+#: inc/customizer/options/buttons.php:370
+#: inc/modules/hf-builder/components/footer/button/customize-options.php:205
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:278
+#: inc/modules/hf-builder/components/header/button/customize-options.php:188
+#: inc/modules/hf-builder/components/header/button/customize-options.php:311
+#: inc/modules/hf-builder/components/header/row/customize-options.php:312
+#: inc/modules/hf-builder/components/header/row/customize-options.php:618
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:112
+#: inc/modules/hf-builder/components/header/row/customize-options.php:117
+msgid "Height"
+msgstr "Высота"
+
+#: inc/modules/hf-builder/components/footer/columns/customize-options.php:207
+#: inc/modules/hf-builder/components/header/columns/customize-options.php:213
+msgid "Start"
+msgstr "Начать"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:775
+msgid "Hide"
+msgstr "Скрыть"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:605
+#: inc/modules/hf-builder/class-header-footer-builder.php:606
+#: inc/modules/hf-builder/class-header-footer-builder.php:626
+#: inc/modules/hf-builder/class-header-footer-builder.php:627
+msgid "Click to edit this element."
+msgstr "Нажмите, чтобы отредактировать этот элемент."
+
+#: inc/classes/class-botiga-metabox.php:714
+msgid "Remove Image"
+msgstr "Удалить изображение"
+
+#: inc/classes/class-botiga-metabox.php:737
+#: inc/classes/class-botiga-metabox.php:745
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:62
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:69
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:76
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:83
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:90
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:97
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:117
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:125
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:133
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:141
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:149
+#: inc/customizer/controls/custom-fonts/class_botiga_custom_fonts_control.php:157
+msgid "Upload"
+msgstr "Загрузить"
+
+#: inc/classes/class-botiga-metabox.php:773
+#: inc/classes/class-botiga-metabox.php:815
+msgid "Size Name"
+msgstr "Название размера"
+
+#: inc/classes/class-botiga-metabox.php:784
+#: inc/classes/class-botiga-metabox.php:828
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:48
+#: inc/modules/hf-builder/components/header/menu/customize-options.php:28
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:76
+#: inc/modules/hf-builder/class-header-footer-builder.php:116
+#: inc/modules/hf-builder/class-header-footer-builder.php:149
+#: inc/modules/hf-builder/components/footer/html/customize-options.php:22
+#: inc/modules/hf-builder/components/header/html/customize-options.php:22
+msgid "HTML"
+msgstr "HTML"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:92
+#: inc/modules/hf-builder/components/header/mobile-hamburger/customize-options.php:22
+msgid "Menu Toggle"
+msgstr "Переключатель меню"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:137
+#: inc/modules/hf-builder/components/footer/copyright/customize-options.php:22
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:145
+#: inc/modules/hf-builder/components/footer/button/customize-options.php:12
+msgid "Button 1"
+msgstr "Кнопка 1"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:436
+msgid "Footer Builder"
+msgstr "Конструктор подвала"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:771
+msgid "Show"
+msgstr "Показать"
+
+#: inc/modules/hf-builder/components/footer/columns/customize-options.php:103
+#: inc/modules/hf-builder/components/header/columns/customize-options.php:105
+msgid "Vertical Alignment"
+msgstr "Вертикальное выравнивание"
+
+#: inc/modules/hf-builder/components/footer/columns/customize-options.php:160
+#: inc/modules/hf-builder/components/header/columns/customize-options.php:164
+msgid "Stack"
+msgstr "Стек"
+
+#: inc/modules/hf-builder/components/footer/columns/customize-options.php:161
+#: inc/modules/hf-builder/components/header/columns/customize-options.php:165
+msgid "Inline"
+msgstr "В линию"
+
+#: inc/modules/hf-builder/components/footer/columns/customize-options.php:198
+#: inc/modules/hf-builder/components/header/columns/customize-options.php:204
+msgid "Horizontal Alignment"
+msgstr "Горизонтальное выравнивание"
+
+#: inc/modules/hf-builder/components/footer/copyright/customize-options.php:152
+#: inc/modules/hf-builder/components/footer/widget-1/customize-options.php:178
+#: inc/modules/hf-builder/components/footer/widget-2/customize-options.php:178
+#: inc/modules/hf-builder/components/footer/widget-3/customize-options.php:178
+#: inc/modules/hf-builder/components/footer/widget-4/customize-options.php:178
+msgid "Links Color"
+msgstr "Цвет ссылок"
+
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:200
+#: inc/modules/hf-builder/components/header/row/customize-options.php:234
+msgid "Equal"
+msgstr "Ровно"
+
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:230
+#: inc/modules/hf-builder/components/header/row/customize-options.php:264
+msgid "Available Columns"
+msgstr "Доступные столбцы"
+
+#: inc/modules/hf-builder/components/footer/widget-1/customize-options.php:128
+#: inc/modules/hf-builder/components/footer/widget-2/customize-options.php:128
+#: inc/modules/hf-builder/components/footer/widget-3/customize-options.php:128
+#: inc/modules/hf-builder/components/footer/widget-4/customize-options.php:128
+msgid "Widget Title Color"
+msgstr "Цвет названия виджета"
+
+#: inc/modules/hf-builder/components/header/logo/customize-options.php:32
+msgid "Logo"
+msgstr "Логотип"
+
+#: inc/modules/hf-builder/components/footer/html/customize-options.php:116
+#: inc/modules/hf-builder/components/header/html/customize-options.php:122
+#: inc/modules/hf-builder/components/header/logo/customize-options.php:129
+msgid "Text Alignment"
+msgstr "Выравнивание текста"
+
+#: inc/modules/hf-builder/components/header/logo/customize-options.php:212
+msgid "Site Title Color"
+msgstr "Цвет названия сайта"
+
+#: inc/modules/hf-builder/components/header/row/customize-options.php:449
+#: inc/modules/hf-builder/components/header/row/customize-options.php:640
+msgid "Border Bottom Color"
+msgstr "Цвет нижней рамки"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:124
+#: inc/modules/hf-builder/class-header-footer-builder.php:129
+#: inc/modules/hf-builder/components/header/wc-icons/customize-options.php:27
+msgid "WooCommerce Icons"
+msgstr "Значок WooCommerce"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:153
+#: inc/modules/hf-builder/components/footer/widget-1/customize-options.php:12
+msgid "Widget Area 1"
+msgstr "Область виджетов 1"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:157
+#: inc/modules/hf-builder/components/footer/widget-2/customize-options.php:12
+msgid "Widget Area 2"
+msgstr "Область виджетов 2"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:161
+#: inc/modules/hf-builder/components/footer/widget-3/customize-options.php:12
+msgid "Widget Area 3"
+msgstr "Область виджетов 3"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:165
+#: inc/modules/hf-builder/components/footer/widget-4/customize-options.php:12
+msgid "Widget Area 4"
+msgstr "Область виджетов 4"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:173
+#: inc/modules/hf-builder/class-header-footer-builder.php:197
+msgid "Button 2"
+msgstr "Кнопка 2"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:177
+#: inc/modules/hf-builder/class-header-footer-builder.php:193
+msgid "HTML 2"
+msgstr "HTML 2"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:181
+msgid "Login/Register"
+msgstr "Вход/Регистрация"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:646
+msgid "Desktop"
+msgstr "Компьютер"
+
+#. translators: 1: column number.
+#: inc/modules/hf-builder/components/footer/columns/customize-options.php:26
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:235
+#: inc/modules/hf-builder/components/header/columns/customize-options.php:26
+#: inc/modules/hf-builder/components/header/row/customize-options.php:269
+msgid "Column %s"
+msgstr "Столбец %s"
+
+#: inc/modules/hf-builder/components/footer/columns/customize-options.php:247
+#: inc/modules/hf-builder/components/header/columns/customize-options.php:253
+msgid "Elements Spacing"
+msgstr "Расстояние между элементами"
+
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:166
+#: inc/modules/hf-builder/components/header/row/customize-options.php:191
+msgid "Columns Layout"
+msgstr "Макет столбцов"
+
+#: inc/modules/hf-builder/components/footer/social/customize-options.php:22
+#: inc/modules/hf-builder/components/header/social/customize-options.php:22
+msgid "Social Icons"
+msgstr "Значки соцсетей"
+
+#: inc/modules/hf-builder/components/footer/widget-1/customize-options.php:60
+msgid "Footer Widget Area 1"
+msgstr "Область виджета 1 подвала"
+
+#: inc/modules/hf-builder/components/footer/widget-3/customize-options.php:60
+msgid "Footer Widget Area 3"
+msgstr "Область виджета 3 подвала"
+
+#: inc/modules/hf-builder/components/footer/widget-2/customize-options.php:60
+msgid "Footer Widget Area 2"
+msgstr "Область виджета 2 подвала"
+
+#: inc/modules/hf-builder/components/footer/widget-4/customize-options.php:60
+msgid "Footer Widget Area 4"
+msgstr "Область виджета 4 подвала"
+
+#: inc/modules/hf-builder/components/header/row/customize-options.php:421
+msgid "Border Bottom Size"
+msgstr "Размер нижней рамки"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:84
+msgid "Off-Canvas Menu"
+msgstr "Меню вне экрана"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:399
+#: inc/modules/hf-builder/components/header/mobile-offcanvas/customize-options.php:36
+msgid "Mobile Offcanvas"
+msgstr "Вне экрана на мобильных"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:714
+msgid "OFFCANVAS"
+msgstr "ВНЕ ЭКРАНА"
+
+#: inc/modules/hf-builder/components/header/mobile-offcanvas-menu/customize-options.php:26
+msgid "Mobile Offcanvas Menu"
+msgstr "Меню вне экрана для мобильных"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:305
+msgid "13+ Components Available"
+msgstr "Доступно более 13 компонентов"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:227
+#: inc/modules/hf-builder/class-header-footer-builder.php:445
+msgid "Above Footer Row"
+msgstr "Ряд над подвалом"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:205
+#: inc/modules/hf-builder/class-header-footer-builder.php:372
+msgid "Above Header Row"
+msgstr "Ряд над заголовком"
+
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:294
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:353
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:369
+msgid "Available Components"
+msgstr "Доступные компоненты"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:211
+#: inc/modules/hf-builder/class-header-footer-builder.php:381
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:140
+msgid "Main Header Row"
+msgstr "Основная ряд заголовка"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:72
+#: inc/modules/hf-builder/class-header-footer-builder.php:112
+#: inc/modules/hf-builder/components/header/contact-info/customize-options.php:23
+msgid "Contact Info"
+msgstr "Контактная информация"
+
+#: inc/dashboard/class-dashboard-settings.php:207
+msgid "Header & Footer Builder"
+msgstr "Конструктор заголовка и подвала"
+
+#: inc/customizer/options/footer.php:767 inc/customizer/options/header.php:597
+#: inc/modules/hf-builder/components/footer/html/customize-options.php:79
+#: inc/modules/hf-builder/components/header/html/customize-options.php:85
+msgid "HTML Content"
+msgstr "HTML-содержимое"
+
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:311
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:386
+msgid "Get Botiga Pro!"
+msgstr "Получить Botiga Pro!"
+
+#: functions.php:352
+msgid "Are you sure you want to dismiss this notice?"
+msgstr "Отклонить это уведомление?"
+
+#: functions.php:348
+msgid "Are you sure you want to upgrade your header?"
+msgstr "Обновить заголовок?"
+
+#: inc/theme-update.php:114
+msgid "Continue to use the old header and footer system"
+msgstr "Продолжайте использовать старую систему заголовка подвала"
+
+#: inc/modules/hf-builder/components/header/button/customize-options.php:281
+#: inc/modules/hf-builder/components/header/contact-info/customize-options.php:229
+#: inc/modules/hf-builder/components/header/html/customize-options.php:255
+#: inc/modules/hf-builder/components/header/logo/customize-options.php:91
+#: inc/modules/hf-builder/components/header/row/customize-options.php:596
+#: inc/modules/hf-builder/components/header/search/customize-options.php:158
+#: inc/modules/hf-builder/components/header/secondary-menu/customize-options.php:219
+#: inc/modules/hf-builder/components/header/social/customize-options.php:160
+#: inc/modules/hf-builder/components/header/wc-icons/customize-options.php:165
+msgid "Control the colors when the sticky header state is active."
+msgstr "Управление цветами, когда состояние прикрепленного заголовка активно."
+
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:172
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:176
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:188
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:212
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:216
+#: inc/modules/hf-builder/components/header/row/customize-options.php:202
+#: inc/modules/hf-builder/components/header/row/customize-options.php:206
+#: inc/modules/hf-builder/components/header/row/customize-options.php:218
+#: inc/modules/hf-builder/components/header/row/customize-options.php:246
+#: inc/modules/hf-builder/components/header/row/customize-options.php:250
+msgid "Equal Width"
+msgstr "Равная ширина"
+
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:311
+msgid "Extend your footer with more components."
+msgstr "Расширьте подвал с помощью дополнительных компонентов."
+
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:386
+msgid "Extend your header with more components."
+msgstr "Расширьте заголовок с помощью дополнительных компонентов."
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:306
+msgid "Get Botiga Pro Now!"
+msgstr "Получить Botiga Pro сейчас!"
+
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:137
+msgid "Header Row To Sticky"
+msgstr "Ряд заголовка - прикрепленный"
+
+#: inc/modules/hf-builder/components/footer/columns/customize-options.php:151
+#: inc/modules/hf-builder/components/header/columns/customize-options.php:155
+msgid "Inner Elements Layout"
+msgstr "Макет внутренних элементов"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:304
+msgid "PRO Components"
+msgstr "PRO-компоненты"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:672
+#: inc/modules/hf-builder/class-header-footer-builder.php:728
+msgid "TOP ROW"
+msgstr "ВЕРХНЯЯ ПАНЕЛЬ"
+
+#: inc/classes/class-botiga-metabox.php:713
+msgid "Upload/Add Image"
+msgstr "Изображение загрузить/добавить"
+
+#: inc/customizer/options/woocommerce.php:485
+msgid "Product Equal Height"
+msgstr "Одинаковая высота товара"
+
+#: inc/modules/hf-builder/components/header/search/search.php:14
+msgid "Search for a product"
+msgstr "Поиск товара"
+
+#: inc/modules/hf-builder/components/header/secondary-menu/secondary-menu.php:20
+#: inc/modules/hf-builder/components/header/secondary-menu/secondary-menu.php:24
+msgid "Secondary Navigation Menu"
+msgstr "Вторичное меню навигации"
+
+#: inc/customizer/options/woocommerce.php:326
+msgid "Show options for sorting products."
+msgstr "Показать варианты сортировки товаров."
+
+#: inc/modules/hf-builder/components/header/logo/customize-options.php:234
+msgid "Site Description Color"
+msgstr "Цвет описания сайта"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:652
+msgid "Tablet/Mobile"
+msgstr "Планшет/мобильный"
+
+#: inc/modules/hf-builder/components/header/button/customize-options.php:280
+#: inc/modules/hf-builder/components/header/contact-info/customize-options.php:228
+#: inc/modules/hf-builder/components/header/html/customize-options.php:254
+#: inc/modules/hf-builder/components/header/logo/customize-options.php:90
+#: inc/modules/hf-builder/components/header/row/customize-options.php:595
+#: inc/modules/hf-builder/components/header/search/customize-options.php:157
+#: inc/modules/hf-builder/components/header/secondary-menu/customize-options.php:218
+#: inc/modules/hf-builder/components/header/social/customize-options.php:159
+#: inc/modules/hf-builder/components/header/wc-icons/customize-options.php:164
+msgid "Sticky Header - Active State"
+msgstr "Прикрепленный заголовок - активное состояние"
+
+#: inc/theme-update.php:97
+msgid "This version of Botiga comes with a new Header and Footer Builder. Activate it by clicking on the button below and you can access new options."
+msgstr "Эта версия Botiga поставляется с новым конструктором заголовка и подвала. Активируйте его, нажав на кнопку ниже, и вы получите доступ к новым опциям."
+
+#: inc/theme-update.php:113
+msgid "Update theme header and footer"
+msgstr "Обновите заголовок и подвал темы"
+
+#. translators: 1: documentation link.
+#: inc/theme-update.php:111
+msgid "Want to see the new header and footer builder before upgrading? Check out our %s."
+msgstr "Хотите увидеть новый конструктор заголовков и подвалом перед обновлением? Посмотрите наши %s."
+
+#: inc/modules/hf-builder/components/footer/columns/customize-options.php:209
+#: inc/modules/hf-builder/components/header/columns/customize-options.php:215
+msgid "End"
+msgstr "Окончание"
+
+#: inc/classes/class-botiga-metabox.php:851
+msgid "Add Size Chart"
+msgstr "Добавить таблицу размеров"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:239
+#: inc/modules/hf-builder/class-header-footer-builder.php:463
+msgid "Below Footer Row"
+msgstr "Ниже ряда подвала"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:217
+#: inc/modules/hf-builder/class-header-footer-builder.php:390
+msgid "Below Header Row"
+msgstr "Ниже ряда заголовка"
+
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:180
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:192
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:204
+#: inc/modules/hf-builder/components/header/row/customize-options.php:210
+#: inc/modules/hf-builder/components/header/row/customize-options.php:226
+#: inc/modules/hf-builder/components/header/row/customize-options.php:238
+msgid "Big Left"
+msgstr "Более слева"
+
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:184
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:196
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:208
+#: inc/modules/hf-builder/components/header/row/customize-options.php:214
+#: inc/modules/hf-builder/components/header/row/customize-options.php:230
+#: inc/modules/hf-builder/components/header/row/customize-options.php:242
+msgid "Big Right"
+msgstr "Более справа"
+
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:415
+msgid "Border Top Color"
+msgstr "Цвет верхней рамки"
+
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:387
+msgid "Border Top Size"
+msgstr "Размер верхней рамки"
+
+#: inc/theme-update.php:95
+msgid "Botiga Header/Footer Update"
+msgstr "Обновить заголовок/подвал Botiga"
+
+#: inc/classes/class-botiga-metabox.php:247
+msgid "Botiga Size Chart Options"
+msgstr "Параметры таблицы размеров Botiga"
+
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:141
+msgid "Bottom Header Row"
+msgstr "Нижний ряд заголовка"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:698
+#: inc/modules/hf-builder/class-header-footer-builder.php:754
+msgid "BOTTOM ROW"
+msgstr "НИЖНИЙ РЯД"
+
+#: inc/modules/hf-builder/components/header/mobile-offcanvas/customize-options.php:162
+msgid "Close Icon Background"
+msgstr "Закрыть фон значка"
+
+#: inc/modules/hf-builder/components/header/mobile-offcanvas/customize-options.php:131
+msgid "Close Icon Offset"
+msgstr "Закрыть смещение значка"
+
+#: inc/modules/hf-builder/components/header/mobile-offcanvas/customize-options.php:191
+msgid "Close Icon Text"
+msgstr "Закрыть текст значка"
+
+#: inc/modules/hf-builder/components/header/contact-info/customize-options.php:90
+msgid "Display Inline"
+msgstr "Отображать встроенный"
+
+#: inc/dashboard/class-dashboard-settings.php:208
+msgid "Drag and drop header/footer builder."
+msgstr "Конструктор заголовка и подвала с функцией перетащить и оставить."
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:311
+msgid "It looks like you already are using all available components."
+msgstr "Похоже, вы уже используете все доступные компоненты."
+
+#: functions.php:349 functions.php:353
+msgid "It was not possible complete the request, please reload the page and try again."
+msgstr "Не удалось выполнить запрос, перезагрузите страницу и повторите попытку."
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:233
+#: inc/modules/hf-builder/class-header-footer-builder.php:454
+msgid "Main Footer Row"
+msgstr "Основная ряд подвала"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:685
+#: inc/modules/hf-builder/class-header-footer-builder.php:741
+msgid "MAIN ROW"
+msgstr "ОСНОВНОЙ РЯД"
+
+#. translators: 1: Mobile row identifier.
+#: inc/modules/hf-builder/components/header/row/customize-options.php:670
+msgid "Mobile - %s"
+msgstr "Мобильные - %s"
+
+#: inc/theme-update.php:100
+msgid "Note 1: This upgrade is optional, there is no need to do it if you are happy with your current header and footer."
+msgstr "Примечание 1. Это обновление является необязательным, в нем нет необходимости, если вас устраивает текущий заголовок и подвал."
+
+#: inc/theme-update.php:103
+msgid "Note 2: Your current header and footer customizations will be lost and you will have to use the new options to customize your header and footer."
+msgstr "Примечание 2. Ваши текущие настройки заголовка и подвала будут потеряны, и вам придется использовать новые параметры для настройки заголовка и подвала."
+
+#: inc/theme-update.php:106
+msgid "Note 3: Please take a full backup of your website before upgrading."
+msgstr "Примечание 3. Перед обновлением сделайте полную резервную копию своего веб-сайта."
+
+#: inc/dashboard/html-home.php:158
+msgid "Size Chart"
+msgstr "Таблица размеров"
+
+#: inc/classes/class-botiga-metabox.php:873
+msgid "Select a size chart"
+msgstr "Выбрать таблицу размеров"
+
+#: inc/classes/class-botiga-topbar.php:273
+msgid "My account"
+msgstr "Моя учётная запись"
+
+#: template-parts/single-product/content-reviews-advanced-modal.php:12
+msgid "Close popup"
+msgstr "Закрыть всплывающее окно"
+
+#: inc/classes/class-botiga-topbar.php:279
+msgid "Account details"
+msgstr "Детали учетной записи"
+
+#: inc/dashboard/html-home.php:111
+msgid "Keep up to date with the latest updates."
+msgstr "Будьте в курсе последних обновлений."
+
+#: inc/classes/class-botiga-topbar.php:292
+msgid "Login or register"
+msgstr "Войдите или зарегистрируйтесь"
+
+#: searchform.php:18 searchform.php:29
+msgid "Search for the product"
+msgstr "Поиск товара"
+
+#. translators: 1: social network link.
+#: inc/template-functions.php:332
+msgid "Social network %s link."
+msgstr "Ссылка на соцсеть %s."
+
+#: inc/classes/class-botiga-metabox.php:235
+msgid "Botiga Post Options"
+msgstr "Параметры записи Botiga"
+
+#: inc/classes/class-botiga-metabox.php:243
+msgid "Botiga Product Options"
+msgstr "Параметры товара Botiga"
+
+#: inc/plugins/woocommerce/features/quick-view.php:135
+msgid "Close quick view popup"
+msgstr "Закрыть всплывающее окно быстрого просмотра"
+
+#: functions.php:264
+msgid "Close sidebar"
+msgstr "Закрыть область виджетов"
+
+#: inc/classes/class-botiga-topbar.php:275
+msgid "My account dashboard"
+msgstr "Консоль: Моя учетная запись"
+
+#: inc/plugins/woocommerce-brands/woocommerce-brands.php:61
+msgid "Brand"
+msgstr "Бренд"
+
+#: inc/dashboard/class-dashboard-settings.php:438
+#: inc/dashboard/html-home.php:159
+msgid "Mega Menu"
+msgstr "Мегаменю"
+
+#: inc/customizer/options/woocommerce.php:466
+msgid "Controls the add to cart button text when product is out of stock. Default: \"Read More\""
+msgstr "Управление текстом кнопки добавления в корзину, когда товара нет в наличии. По умолчанию: Читать далее"
+
+#: inc/plugins/woocommerce-brands/woocommerce-brands.php:115
+msgid "Include Brands On Categories"
+msgstr "Включить бренды в категории"
+
+#: inc/plugins/woocommerce-brands/woocommerce-brands.php:175
+msgid "Brand Image Height"
+msgstr "Высота изображения бренда"
+
+#: inc/plugins/woocommerce-brands/woocommerce-brands.php:145
+msgid "Brand Image Width"
+msgstr "Ширина изображения бренда"
+
+#: inc/plugins/woocommerce-brands/woocommerce-brands.php:116
+msgid "Check to filter and display product brands along with product categories"
+msgstr "Отметьте, чтобы фильтровать и отображать бренды товара вместе с категориями товара"
+
+#: inc/customizer/options/woocommerce.php:465
+msgid "Out of Stock Text"
+msgstr "Текст Нет в наличии"
+
+#: inc/template-tags.php:281
+msgid "OK"
+msgstr "OK"
+
+#: inc/dashboard/html-settings.php:73 inc/dashboard/html-starter-sites.php:32
+#: inc/dashboard/html-theme-features.php:50
+#: inc/dashboard/html-useful-plugins.php:48
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/template-tags.php:257
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/template-tags.php:265
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/template-tags.php:289
+msgid "Mail"
+msgstr "Почта"
+
+#: inc/template-tags.php:293
+msgid "Copy Link"
+msgstr "Копировать ссылку"
+
+#: inc/dashboard/html-settings.php:69 inc/dashboard/html-theme-features.php:46
+#: inc/dashboard/html-useful-plugins.php:50
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#. translators: %s is review count
+#: template-parts/single-product/content-reviews-advanced.php:46
+msgctxt "review count"
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] "%s отзыв"
+msgstr[1] "%s отзыва"
+msgstr[2] "%s отзывов"
+
+#: inc/customizer/controls/typography/class_botiga_typography.php:128
+msgid "<p class=\"botiga-customize-error\">Something went wrong and the Google Fonts couldn't be loaded."
+msgstr "<p class=\"botiga-customize-error\">Что-то пошло не так, и шрифты Google не удалось загрузить."
+
+#: inc/template-tags.php:269
+msgid "Telegram"
+msgstr "Telegram"
+
+#: inc/modules/hf-builder/class-header-footer-builder.php:363
+msgid "Header Builder"
+msgstr "Конструктор заголовков"
+
+#: inc/template-tags.php:261
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: inc/template-tags.php:273
+msgid "Weibo"
+msgstr "Weibo"
+
+#: inc/template-tags.php:277
+msgid "VK"
+msgstr "VK"
+
+#: inc/template-tags.php:285
+msgid "Xing"
+msgstr "XING"
+
+#: template-parts/single-product/content-reviews-advanced.php:281
+msgid "Your review is awaiting approval."
+msgstr "Ваш отзыв ожидает одобрения."
+
+#: template-parts/single-product/content-reviews-advanced.php:49
+msgid "Be the first to leave a review."
+msgstr "Будьте первым, кто оставит отзыв."
+
+#: functions.php:67 inc/modules/hf-builder/class-header-footer-builder.php:52
+#: inc/modules/hf-builder/class-header-footer-builder.php:88
+#: inc/modules/hf-builder/components/header/secondary-menu/customize-options.php:23
+msgid "Secondary Menu"
+msgstr "Вторичное меню"
+
+#: inc/customizer/ajax-callbacks.php:67
+msgid "Your API token is valid but you don't have fonts attached to this token."
+msgstr "Ваш токен API действителен, но у вас нет шрифтов, прикрепленных к этому токену."
+
+#: inc/customizer.php:284 inc/customizer.php:286
+msgid "Enable"
+msgstr "Включить"
+
+#: inc/customizer/controls/typography-adobe/class_botiga_typography_adobe_kits.php:44
+msgid "API Token"
+msgstr "API Token"
+
+#: inc/customizer.php:284 inc/customizer.php:286
+msgid "Disable"
+msgstr "Отключить"
+
+#: inc/customizer/controls/typography-adobe/class_botiga_typography_adobe_kits.php:58
+msgid "Get Fonts"
+msgstr "Получить шрифты"
+
+#. translators: 1: How to use adobe fonts docs link
+#: inc/customizer/controls/typography/class_botiga_typography.php:123
+msgid "<p class=\"botiga-customize-error\">Something went wrong and the Google Fonts couldn't be loaded. Please contact our support <a href=\"%s\" target=\"_blank\">here</a> to get help."
+msgstr "<p class=\"botiga-customize-error\">Что-то пошло не так, и шрифты Google не удалось загрузить. Свяжитесь с нашей службой поддержки <a href=\"%s\" target=\"_blank\">здесь</a>, чтобы получить помощь."
+
+#: inc/dashboard/class-dashboard-settings.php:316
+#: inc/modules/adobe-typekit/customizer/options.php:9
+msgid "Adobe Fonts"
+msgstr "Шрифты Adobe"
+
+#: inc/customizer/controls/custom-fonts/class_botiga_typography_custom_control.php:89
+#: inc/customizer/options/typography.php:52
+msgid "Google Fonts"
+msgstr "Шрифты Google"
+
+#: inc/dashboard/html-home.php:169
+msgid "Buy Botiga Pro"
+msgstr "Купить Botiga Pro"
+
+#: inc/customizer/options/typography.php:50
+msgid "Fonts Library"
+msgstr "Библиотека шрифтов"
+
+#: inc/dashboard/part-support.php:43
+msgid "Get direct support from our developers via email. We aim to answer all premium support requests within 24 hours."
+msgstr "Получите прямую поддержку от наших разработчиков по электронной почте. Мы стремимся отвечать на все запросы на премиальную поддержку в течение 24 часов."
+
+#: inc/dashboard/part-support.php:46
+msgid "Get Premium Support with Botiga Pro"
+msgstr "Получите премиум-поддержку с Botiga Pro"
+
+#: inc/classes/class-botiga-metabox.php:106 inc/customizer/options/blog.php:141
+msgid "Hide Page Title"
+msgstr "Скрыть заголовок страницы"
+
+#: inc/customizer/ajax-callbacks.php:25
+msgid "Invalid API token."
+msgstr "Недопустимый токен API."
+
+#. translators: 1: Adobe fonts kit id
+#: inc/customizer.php:259
+msgid "Kit ID: %s"
+msgstr "ID комплекта: %s"
+
+#. translators: 1: Adobe fonts project name
+#: inc/customizer.php:267
+msgid "Project Name: %s"
+msgstr "Название проекта: %s"
+
+#. Translators:
+#: inc/customizer.php:293
+msgid "Reload the page is required to get it working across all typography options. <a href=\"%s\">Click here</a> to reload the page."
+msgstr "Перезагрузите страницу, чтобы заставить ее работать со всеми вариантами типографики. <a href=\"%s\">Нажмите здесь</a>, чтобы перезагрузить страницу."
+
+#. translators: 1: How to use adobe fonts docs link
+#: inc/customizer/controls/typography-adobe/class_botiga_typography_adobe_kits.php:38
+msgid "To use fonts from Adobe some steps are required. Learn more about that <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr "Чтобы использовать шрифты Adobe, необходимо выполнить несколько шагов. Узнайте больше об этом <a href=\"%s\" target=\"_blank\">здесь</a>."
+
+#. translators: 1: Adobe Fonts account website link
+#: inc/customizer/controls/typography-adobe/class_botiga_typography_adobe_kits.php:52
+msgid "You can get your Adobe Fonts API Token by clicking <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr "Вы можете получить токен Adobe Fonts API, нажав <a href=\"%s\" target=\"_blank\">здесь</a>."
+
+#: inc/customizer.php:248
+msgid "You have the following data in your Adobe Fonts account."
+msgstr "В вашей учетной записи Adobe Fonts есть следующие данные."
+
+#. translators: 1: Adobe Fonts docs link
+#: inc/customizer/ajax-callbacks.php:62
+msgid "Your API token is valid but you don't have fonts attached to this token. Click <a href=\"%s\" target=\"_blank\">here</a> to learn more about that."
+msgstr "Ваш токен API действителен, но у вас нет шрифтов, прикрепленных к этому токену. Нажмите <a href=\"%s\" target=\"_blank\">здесь</a>, чтобы узнать об этом подробнее."
+
+#: inc/customizer/options/header.php:695
+#: inc/modules/hf-builder/components/footer/button/customize-options.php:94
+msgid "Button Class"
+msgstr "Класс кнопки"
+
+#: template-parts/single-product/content-reviews-advanced-modal.php:48
+msgid "Name"
+msgstr "Имя"
+
+#: template-parts/single-product/content-reviews-advanced-modal.php:54
+msgid "Email"
+msgstr "Email"
+
+#: template-parts/single-product/content-reviews-advanced.php:292
+msgid "There are no reviews yet."
+msgstr "Отзывов пока нет."
+
+#. translators: %s is product title
+#: template-parts/single-product/content-reviews-advanced-modal.php:36
+msgid "Leave a Reply to %s"
+msgstr "Оставить комментарий к %s"
+
+#: template-parts/single-product/content-reviews-advanced-modal.php:40
+msgid "Submit"
+msgstr "Отправить"
+
+#: template-parts/single-product/content-reviews-advanced-modal.php:93
+msgid "Your review"
+msgstr "Ваш отзыв"
+
+#: inc/customizer/options/woocommerce.php:926
+msgid "Mini Cart"
+msgstr "Мини-корзина"
+
+#: template-parts/single-product/content-reviews-advanced.php:125
+msgid "Newest"
+msgstr "Новейшее"
+
+#: inc/plugins/woocommerce/features/upsell-products.php:82
+msgid "You may also like..."
+msgstr "Вам также может понравиться..."
+
+#. translators: %s opening and closing link tags respectively
+#: template-parts/single-product/content-reviews-advanced-modal.php:79
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr "Для отправки отзыва вам необходимо %1$sавторизоваться%2$s."
+
+#: template-parts/single-product/content-reviews-advanced-modal.php:84
+msgid "Rate&hellip;"
+msgstr "Оценка&hellip;"
+
+#: template-parts/single-product/content-reviews-advanced-modal.php:85
+msgid "Perfect"
+msgstr "Отлично"
+
+#: template-parts/single-product/content-reviews-advanced-modal.php:86
+msgid "Good"
+msgstr "Хорошо"
+
+#: template-parts/single-product/content-reviews-advanced-modal.php:87
+msgid "Average"
+msgstr "Средне"
+
+#: template-parts/single-product/content-reviews-advanced-modal.php:88
+msgid "Not that bad"
+msgstr "Неплохо"
+
+#: template-parts/single-product/content-reviews-advanced-modal.php:89
+msgid "Very poor"
+msgstr "Очень плохо"
+
+#: template-parts/single-product/content-reviews-advanced-modal.php:100
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr "Только зарегистрированные пользователи, которые купили продукт, могут оставлять отзывы."
+
+#: template-parts/single-product/content-reviews-advanced.php:56
+msgid "5 Stars"
+msgstr "5 звезд"
+
+#. translators: %s is stars quantity
+#: template-parts/single-product/content-reviews-advanced.php:63
+#: template-parts/single-product/content-reviews-advanced.php:75
+#: template-parts/single-product/content-reviews-advanced.php:87
+#: template-parts/single-product/content-reviews-advanced.php:99
+#: template-parts/single-product/content-reviews-advanced.php:111
+msgid "(%s)"
+msgstr "(%s)"
+
+#: template-parts/single-product/content-reviews-advanced.php:68
+msgid "4 Stars"
+msgstr "4 звезды"
+
+#: template-parts/single-product/content-reviews-advanced.php:80
+msgid "3 Stars"
+msgstr "3 звезды"
+
+#: template-parts/single-product/content-reviews-advanced.php:92
+msgid "2 Stars"
+msgstr "2 звезды"
+
+#: template-parts/single-product/content-reviews-advanced.php:120
+msgid "Write a Review"
+msgstr "Написать отзыв"
+
+#: template-parts/single-product/content-reviews-advanced.php:126
+msgid "Oldest"
+msgstr "Старые"
+
+#: template-parts/single-product/content-reviews-advanced.php:104
+msgid "1 Star"
+msgstr "1 звезда"
+
+#: template-parts/single-product/content-reviews-advanced.php:221
+#: template-parts/single-product/content-reviews-advanced.php:276
+msgid " — verified owner"
+msgstr " — проверенный владелец"
+
+#: template-parts/single-product/content-reviews-advanced.php:127
+msgid "Top rated"
+msgstr "Высший рейтинг"
+
+#: template-parts/single-product/content-reviews-advanced.php:22
+msgid "High-quality, ethically sourced products at affordable prices"
+msgstr "Высококачественные продукты, этическое происхождение, по доступным ценам"
+
+#: template-parts/single-product/content-reviews-advanced.php:128
+msgid "Low rated"
+msgstr "Низкий рейтинг"
+
+#. translators: %s is average rating value
+#: template-parts/single-product/content-reviews-advanced.php:35
+#: template-parts/single-product/content-reviews-advanced.php:206
+#: template-parts/single-product/content-reviews-advanced.php:261
+msgid "Rated %s out of 5 based on customer ratings."
+msgstr "Оценка %s из 5 на основе оценок клиентов."
+
+#: template-parts/single-product/content-reviews-advanced-modal.php:18
+msgid "You are reviewing"
+msgstr "Вы просматриваете"
+
+#: template-parts/single-product/content-reviews-advanced.php:21
+msgid "Why people love our products"
+msgstr "Почему люди любят нашу продукцию"
+
+#: inc/customizer/options/header-mobile.php:201
+msgid "Offcanvas Cart &amp; account icons"
+msgstr "Значки корзины и учетной записи, вне экрана"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:67
+#: inc/template-functions.php:606
+msgid "Pages"
+msgstr "Страницы"
+
+#: inc/customizer/options/header.php:1282
+#: inc/modules/hf-builder/components/header/mobile-offcanvas-menu/customize-options.php:172
+#: inc/modules/hf-builder/components/header/secondary-menu/customize-options.php:194
+#: inc/modules/hf-builder/components/header/secondary-menu/customize-options.php:305
+msgid "Submenu Text Color"
+msgstr "Цвет текста подменю"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:208
+#: inc/template-functions.php:605
+msgid "Front Page"
+msgstr "Главная страница"
+
+#: inc/template-functions.php:608
+msgid "Blog Posts"
+msgstr "Записи в блоге"
+
+#: inc/template-functions.php:610
+msgid "404 Page"
+msgstr "Страница 404"
+
+#: inc/template-functions.php:615
+msgid "Shop Catalog"
+msgstr "Каталог магазина"
+
+#: inc/template-functions.php:607
+msgid "Blog Archive"
+msgstr "Архив блога"
+
+#: inc/customizer/options/header.php:187
+msgid "Enable transparent header"
+msgstr "Включить прозрачный заголовок"
+
+#: inc/customizer/options/header.php:207
+msgid "Enable transparent top bar"
+msgstr "Включить прозрачную верхнюю панель"
+
+#: inc/template-functions.php:609
+msgid "Posts Search Results"
+msgstr "Результаты поиска записей"
+
+#: inc/template-functions.php:619
+msgid "Shop My Account"
+msgstr "Магазин: Моя учетная запись"
+
+#: inc/template-functions.php:616
+msgid "Shop Products"
+msgstr "Магазин: Товары"
+
+#: inc/template-functions.php:617
+msgid "Shop Cart"
+msgstr "Магазин: Корзина"
+
+#: inc/template-functions.php:618
+msgid "Shop Checkout"
+msgstr "Магазин: Оформление заказа"
+
+#: inc/template-functions.php:626
+msgid "Shop Wishlist"
+msgstr "Магазин: Список пожеланий"
+
+#: inc/customizer/options/header.php:358
+msgid "Sticky Header Logo"
+msgstr "Приклеенный логотип заголовка"
+
+#: inc/customizer/options/header.php:1253
+#: inc/modules/hf-builder/components/header/secondary-menu/customize-options.php:165
+#: inc/modules/hf-builder/components/header/secondary-menu/customize-options.php:275
+msgid "Submenu Background"
+msgstr "Фон подменю"
+
+#: inc/customizer/options/topbar.php:462
+msgid "Text color hover"
+msgstr "Цвет текста при наведении"
+
+#: inc/customizer/options/header.php:188
+msgid "The header stays over the content. You need to manually change the background color from header to be transparent."
+msgstr "Заголовок остается над содержимым. Необходимо вручную изменить цвет фона заголовка на прозрачный."
+
+#: inc/customizer/options/header.php:208
+msgid "The top bar stays over the content. You need manually change the background color from top bar to be transparent."
+msgstr "Верхняя панель остается над содержимым. Вам нужно вручную изменить цвет фона верхней панели, чтобы он стал прозрачным."
+
+#: inc/customizer/options/header.php:909
+msgid "Bottom row text color hover"
+msgstr "Цвет текста нижнего ряда при наведении"
+
+#: inc/classes/class-botiga-metabox.php:112
+msgid "Disable Transparent Header"
+msgstr "Отключить прозрачный заголовок"
+
+#: inc/customizer/options/header.php:1011
+msgid "Mini Cart Background Color"
+msgstr "Цвет фона мини-корзины"
+
+#: inc/customizer/options/header.php:1031
+msgid "Mini Cart Text Color"
+msgstr "Цвет текста мини-корзины"
+
+#: inc/customizer/options/woocommerce.php:1542
+msgid "Product Short Description"
+msgstr "Краткое описание товара"
+
+#: inc/customizer/options/woocommerce.php:1541
+msgid "Product Description"
+msgstr "Описание товара"
+
+#: inc/customizer/options/woocommerce.php:1538
+msgid "Results Description"
+msgstr "Описание результатов"
+
+#: inc/customizer/options/woocommerce.php:1561
+msgid "Results Description Length"
+msgstr "Длина описания результатов"
+
+#: inc/customizer/options/woocommerce.php:1539
+msgid "Save/publish the changes is required to see this option working in the customizer preview."
+msgstr "Чтобы эта опция работала в предварительном просмотре настройки темы, необходимо сохранить/опубликовать изменения."
+
+#: inc/customizer/options/woocommerce.php:1562
+msgid "The number of words to show in the results description. Save/publish the changes is required to see this option working in the customizer preview."
+msgstr "Количество слов для отображения в описании результатов. Сохранить/опубликовать изменения необходимо для того, чтобы увидеть работу этой опции в предварительном просмотре в настройке темы."
+
+#: inc/ajax-callbacks.php:66
+msgid "Products"
+msgstr "Товары"
+
+#: inc/ajax-callbacks.php:124
+msgid "No products found."
+msgstr "Товары не найдены."
+
+#: inc/classes/class-botiga-header.php:762
+#: inc/classes/class-botiga-topbar.php:283
+msgid "Login"
+msgstr "Вход"
+
+#: inc/customizer/options/woocommerce.php:1597
+msgid "Random"
+msgstr "Случайный"
+
+#: inc/classes/class-botiga-header.php:742
+#: inc/classes/class-botiga-topbar.php:277
+msgid "Downloads"
+msgstr "Загрузки"
+
+#: inc/customizer/options/woocommerce-single.php:619
+#: inc/customizer/options/woocommerce.php:1598
+msgid "Product Price"
+msgstr "Цена товара"
+
+#: inc/classes/class-botiga-header.php:740
+#: inc/classes/class-botiga-topbar.php:275
+msgid "Dashboard"
+msgstr "Консоль"
+
+#. translators: 1: display name.
+#: inc/classes/class-botiga-header.php:724
+#: inc/classes/class-botiga-topbar.php:266
+msgid "Welcome %s"
+msgstr "Добро пожаловать %s"
+
+#: inc/classes/class-botiga-header.php:743
+#: inc/classes/class-botiga-topbar.php:278
+msgid "Addresses"
+msgstr "Адреса"
+
+#: inc/classes/class-botiga-header.php:744
+#: inc/classes/class-botiga-topbar.php:279
+msgid "Account Details"
+msgstr "Детали учетной записи"
+
+#: inc/classes/class-botiga-header.php:752
+#: inc/classes/class-botiga-topbar.php:280
+msgid "Logout"
+msgstr "Выйти"
+
+#: inc/customizer/options/woocommerce-single.php:384
+msgid "Recently Viewed Products"
+msgstr "Недавно просмотренные товары"
+
+#: inc/customizer/options/woocommerce.php:1596
+msgid "Modified Date"
+msgstr "Измененная дата"
+
+#: inc/plugins/woocommerce/woocommerce-template-functions.php:39
+#: template-parts/single-product/content-reviews-advanced-modal.php:83
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: inc/plugins/woocommerce/woocommerce-template-functions.php:41
+msgid "Short Description"
+msgstr "Краткое описание"
+
+#: inc/plugins/woocommerce/woocommerce-template-functions.php:51
+msgid "Wishlist Button"
+msgstr "Кнопка списка пожеланий"
+
+#: inc/customizer/options/woocommerce.php:1639
+msgid "Display Categories"
+msgstr "Отображать категории"
+
+#: inc/customizer/options/woocommerce-single.php:439
+#: inc/customizer/options/woocommerce.php:1171
+#: inc/plugins/woocommerce/woocommerce-template-functions.php:38
+msgid "Product Title"
+msgstr "Наименование товара"
+
+#: inc/customizer/options/woocommerce.php:1595
+msgid "Published Date"
+msgstr "Дата публикации"
+
+#: inc/customizer/options/woocommerce.php:1469
+msgid "Allow your customers to search and get results in real time without loading other pages."
+msgstr "Позвольте вашим клиентам искать и получать результаты в режиме реального времени, не загружая другие страницы."
+
+#: inc/customizer/options/woocommerce.php:1509
+msgid "Control the maximum amount of products to show in the search results."
+msgstr "Управление макс. количеством товаров, которые будут показаны в результатах поиска."
+
+#: inc/customizer/options/woocommerce.php:1468
+msgid "Enable AJAX On Search Fields"
+msgstr "Включить AJAX в полях поиска"
+
+#: inc/plugins/woocommerce/features/recently-viewed-products.php:87
+msgid "Recently viewed products"
+msgstr "Недавно просмотренные товары"
+
+#: inc/customizer/options/woocommerce.php:1508
+msgid "Results Amount per Search"
+msgstr "Количество результатов за поиск"
+
+#: inc/customizer/options/woocommerce.php:1591
+msgid "Results Order By"
+msgstr "Результаты упорядочить по"
+
+#: inc/customizer/options/woocommerce.php:1617
+msgid "Results Order"
+msgstr "Упорядочивание результатов"
+
+#: inc/customizer/options/woocommerce.php:1640
+msgid "Display product categories in the results if the searched term matches with category name."
+msgstr "Отображать категории товара в результатах, если искомый термин совпадает с названием категории."
+
+#: inc/customizer/options/woocommerce.php:945
+msgid "Mini Cart Cross Sell"
+msgstr "Мини-корзина кросс-продажи"
+
+#: inc/classes/class-botiga-header.php:741
+#: inc/classes/class-botiga-topbar.php:276
+msgid "Orders"
+msgstr "Заказы"
+
+#: inc/customizer/options/woocommerce.php:144
+msgid "Products Per Row"
+msgstr "Товар на строку"
+
+#: inc/customizer/options/woocommerce.php:175
+msgid "Rows Per Page"
+msgstr "Строк на странице"
+
+#: inc/customizer/options/woocommerce.php:1343
+msgid "Product Title Color"
+msgstr "Цвет названия товара"
+
+#: inc/dashboard/class-dashboard-settings.php:448
+msgid "Wishlist"
+msgstr "Список пожеланий"
+
+#: template-parts/content-wishlist.php:79
+msgid "Stock"
+msgstr "Запасы"
+
+#: inc/customizer/options/woocommerce-single.php:83
+msgid "Product Image"
+msgstr "Изображение товара"
+
+#: template-parts/content-wishlist.php:82
+msgid "Out of Stock"
+msgstr "Нет в наличии"
+
+#: template-parts/content-wishlist.php:84
+msgid "In Stock"
+msgstr "В наличии"
+
+#: inc/plugins/woocommerce/woocommerce-template-functions.php:42
+#: template-parts/content-wishlist.php:89
+#: template-parts/content-wishlist.php:112
+msgid "Add to Cart"
+msgstr "Добавить в корзину"
+
+#: template-parts/content-wishlist.php:21
+#: template-parts/content-wishlist.php:141
+msgid "Stock Status"
+msgstr "Статус наличия"
+
+#: inc/dashboard/class-dashboard-settings.php:367
+msgid "Distraction Free Checkout"
+msgstr "Оформление заказа без отвлекающих факторов"
+
+#: inc/plugins/woocommerce/features/wishlist.php:89
+msgid "Add to Wishlist"
+msgstr "Добавить в список пожеланий"
+
+#: template-parts/content-wishlist.php:20
+#: template-parts/content-wishlist.php:140
+msgid "Unit Price"
+msgstr "Цена единицы"
+
+#: template-parts/content-wishlist.php:42
+msgid "Remove this item"
+msgstr "Удалить этот элемент"
+
+#: template-parts/content-wishlist.php:100
+msgid "Select Options"
+msgstr "Выбрать параметры"
+
+#: inc/customizer.php:284 inc/customizer.php:286
+#: inc/customizer/controls/typography-adobe/class_botiga_typography_adobe_kits.php:58
+#: template-parts/content-wishlist.php:116
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: template-parts/content-wishlist.php:116
+msgid "Added!"
+msgstr "Добавлено!"
+
+#: template-parts/content-wishlist.php:127
+msgid "View Cart"
+msgstr "Посмотреть корзину"
+
+#: inc/customizer/controls/class_botiga_create_page_control.php:71
+msgid "Creating..."
+msgstr "Создание ..."
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:108
+#: inc/customizer/options/woocommerce.php:1594
+#: template-parts/content-wishlist.php:19
+#: template-parts/content-wishlist.php:139
+msgid "Product Name"
+msgstr "Название товара"
+
+#: template-parts/content-wishlist.php:94
+msgid "View Products"
+msgstr "Просмотр товаров"
+
+#: inc/customizer/controls/class_botiga_create_page_control.php:72
+msgid "Created!"
+msgstr "Создано!"
+
+#: inc/dashboard/html-theme-features.php:71
+msgid "Learn more"
+msgstr "Подробнее"
+
+#. translators: 1: page title, 2: page meta key, 3: page meta value, 4: option
+#. name, 5: nonce, 6: loading text, 7: success text
+#: inc/customizer/controls/class_botiga_create_page_control.php:64
+msgid "<a href=\"#\" class=\"botiga-create-page-control-button button\" data-page-title=\"%2$s\" data-page-meta-key=\"%3$s\" data-page-meta-value=\"%4$s\" data-option-name=\"%5$s\" data-nonce=\"%6$s\" data-creating-text=\"%7$s\" data-created-text=\"%8$s\">%1$s</a>"
+msgstr "<a href=\"#\" class=\"botiga-create-page-control-button button\" data-page-title=\"%2$s\" data-page-meta-key=\"%3$s\" data-page-meta-value=\"%4$s\" data-option-name=\"%5$s\" data-nonce=\"%6$s\" data-creating-text=\"%7$s\" data-created-text=\"%8$s\">%1$s</a>"
+
+#: inc/template-functions.php:536
+msgid "Hamburger button"
+msgstr "Кнопка Hamburger"
+
+#: template-parts/content-wishlist.php:62
+msgid "Product"
+msgstr "Товар"
+
+#: inc/plugins/woocommerce/features/wishlist.php:84
+#: inc/plugins/woocommerce/features/wishlist.php:87
+msgid "View Wishlist"
+msgstr "View Wishlist"
+
+#: inc/customizer/options/header.php:1178
+msgid "Sticky Header Active State"
+msgstr "Активное состояние прикрепленного заголовка"
+
+#: inc/customizer/options/upsell.php:29
+msgid "More header options available in PRO."
+msgstr "Дополнительные параметры заголовка доступны в PRO."
+
+#: inc/customizer/options/upsell.php:56
+msgid "More blog single posts options available in PRO."
+msgstr "Дополнительные параметры отдельных записей в блоге доступны в PRO."
+
+#: inc/customizer/options/upsell.php:85
+msgid "More single products options available in PRO."
+msgstr "Дополнительные варианты отдельных продуктов доступны в PRO."
+
+#: inc/customizer/options/upsell.php:112
+msgid "More product catalog options available in PRO."
+msgstr "Дополнительные параметры вариантов каталога продукции доступны в PRO."
+
+#: inc/customizer/options/upsell.php:135
+msgid "More cart options available in PRO."
+msgstr "Больше вариантов корзины доступно в PRO."
+
+#: inc/customizer/options/upsell.php:158
+msgid "More checkout options available in PRO."
+msgstr "Дополнительные варианты оплаты доступны в PRO."
+
+#: inc/customizer/options/upsell.php:187
+msgid "More footer copyright options available in PRO version."
+msgstr "Дополнительные вариантов авторских прав в подвале доступны в PRO."
+
+#: inc/dashboard/html-home.php:160
+msgid "Product Swatch"
+msgstr "Образец товара"
+
+#: inc/dashboard/class-dashboard-settings.php:335
+#: inc/dashboard/html-home.php:163
+msgid "Shop Header Styles"
+msgstr "Стили заголовка магазина"
+
+#: inc/dashboard/class-dashboard-settings.php:359
+msgid "Shop Sidebar Layouts"
+msgstr "Макеты области виджетов магазина"
+
+#. translators: 1: link to edit page
+#: inc/customizer/controls/class_botiga_create_page_control.php:42
+msgid "Your page is created!<br>Click <a href=\"%s\" target=\"_blank\">here</a> if you want to edit the page.<br><br>If you want to show a link to this page, assign the page to a menu by clicking <a href=\"#\" data-goto=\"nav_menus\" data-type=\"panel\">here</a>"
+msgstr "Ваша страница создана!<br>Нажмите <a href=\"%s\" target=\"_blank\">здесь</a>, если хотите отредактировать страницу.<br><br>Если хотите показать ссылку на на этой странице, назначьте страницу меню, нажав <a href=\"#\" data-goto=\"nav_menus\" data-type=\"panel\">здесь</a>"
+
+#: template-parts/header-mobile/content-header-mobile-icons.php:49
+#: template-parts/header-mobile/content-header-mobile-offcanvas-icons.php:49
+#: template-parts/header/content-header-icons.php:50
+msgid "Your wishlist"
+msgstr "Ваш список пожеланий"
+
+#. Template Name of the theme
+msgid "Botiga Wishlist"
+msgstr "Список пожеланий Botiga"
+
+#. translators: 1: page name
+#: inc/customizer/controls/class_botiga_create_page_control.php:50
+msgid "It looks like you haven't created a <strong>%s</strong> page yet. Click the below button to create the page."
+msgstr "Похоже, вы еще не создали страницу <strong>%s</strong>. Нажмите кнопку ниже, чтобы создать страницу."
+
+#: inc/dashboard/class-dashboard-settings.php:418
+msgid "More Footer Copyright Elements"
+msgstr "Дополнительные элементы авторского права подвала"
+
+#: inc/dashboard/class-dashboard-settings.php:343
+msgid "More Single Product Gallery Styles"
+msgstr "Больше стилей галереи отдельного товара"
+
+#: template-parts/content-wishlist.php:147
+msgid "No products added to the wishlist"
+msgstr "Нет товаров, добавленных в список пожеланий"
+
+#: inc/dashboard/class-dashboard-settings.php:351
+msgid "Single Product Tab Styles"
+msgstr "Стили вкладок отдельного товара"
+
+#: inc/dashboard/class-dashboard-settings.php:524
+msgid "Single Product Sticky Add to Cart"
+msgstr "Прикрепленная В корзину для отдельного товара"
+
+#. translators: 1: link to edit page
+#: inc/customizer/controls/class_botiga_create_page_control.php:58
+msgid "Page created with success!<br>Click <a href=\"%s\" target=\"_blank\">here</a> if you want to edit the page.<br><br>If you want to show a link to this page, assign the page to a menu by clicking <a href=\"#\" data-goto=\"nav_menus\" data-type=\"panel\">here</a>"
+msgstr "Страница успешно создана!<br>Нажмите <a href=\"%s\" target=\"_blank\">здесь</a>, если хотите изменить страницу.<br><br>Если хотите показать ссылку на на этой странице, назначьте страницу меню, нажав <a href=\"#\" data-goto=\"nav_menus\" data-type=\"panel\">здесь</a>"
+
+#: inc/customizer/options/footer.php:605
+msgid "Content Alignment"
+msgstr "Выравнивание содержимого"
+
+#: inc/customizer/options/footer.php:635
+msgid "Credits"
+msgstr "О создателях"
+
+#: inc/customizer/options/footer.php:636
+msgid "Social Profiles"
+msgstr "Соцпрофили"
+
+#: inc/customizer/options/woocommerce.php:306
+msgid "Page Description"
+msgstr "Описание страницы"
+
+#: inc/customizer/options/footer.php:561
+msgid "Copyright Bar Layout"
+msgstr "Макет панели авторских прав"
+
+#: inc/customizer/options/footer.php:874
+msgid "Links color hover"
+msgstr "Цвет ссылок при наведении"
+
+#: inc/customizer/options/woocommerce.php:897
+#: inc/customizer/options/woocommerce.php:995
+msgid "Display Coupon Form"
+msgstr "Отображать форму купона"
+
+#: inc/customizer/options/woocommerce-single.php:252
+msgid "SKU"
+msgstr "Артикул"
+
+#: functions.php:314
+msgid "Copied!"
+msgstr "Скопировано!"
+
+#: functions.php:313
+msgid "Copy link"
+msgstr "Скопировать ссылку"
+
+#: inc/customizer/options/blog-single.php:107
+msgid "Full width"
+msgstr "Во всю ширину"
+
+#: inc/customizer/options/blog-single.php:103
+msgid "Wide"
+msgstr "По ширине"
+
+#: inc/customizer/options/blog-single.php:99
+msgid "Centered"
+msgstr "По центру"
+
+#: inc/template-tags.php:249
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/template-tags.php:245
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/template-tags.php:253
+msgid "LinkedIn"
+msgstr "Linkedin"
+
+#: inc/customizer/options/blog-single.php:94
+msgid "Post layout"
+msgstr "Макет записи"
+
+#: inc/customizer/options/woocommerce-single.php:292
+msgid "Tags"
+msgstr "Теги"
+
+#: inc/template-tags.php:238
+msgid "SHARE:"
+msgstr "ПОДЕЛИТЬСЯ:"
+
+#: inc/notices/class-botiga-review.php:76
+msgid "Maybe later"
+msgstr "Возможно позже"
+
+#: inc/notices/class-botiga-review.php:75
+msgid "Sure"
+msgstr "Конечно"
+
+#: inc/customizer/options/woocommerce.php:877
+msgid "Cross Sell"
+msgstr "Кросс-продажи"
+
+#. Translators: %1$s current user display name.
+#: inc/notices/class-botiga-review.php:67
+msgid "Hey, %1$s! You've been using Botiga for more than two weeks now and we hope you're happy with it. If you have a few minutes, we would love to get a 5 star review from you."
+msgstr "Привет, %1$s! Вы используете Botiga уже более двух недель, и мы надеемся, что вы довольны им. Если у вас есть несколько минут, мы будем рады получить от вас 5-звездочный обзор."
+
+#: inc/notices/class-botiga-review.php:77
+msgid "I already did"
+msgstr "Я уже сделал"
+
+#: inc/customizer/options/blog-single.php:535
+msgid "Author box alignment"
+msgstr "Выравнивание блока автора"
+
+#: inc/template-tags.php:495
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Страница не найдена."
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: template-parts/content-page.php:36 template-parts/content-single.php:61
+msgid "Pages:"
+msgstr "Страницы:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:123 template-parts/content-page.php:52
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Нет соответствий для ваших условий поиска. Пожалуйста, попробуйте снова с другими ключевыми словами."
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:48
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать далее<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/classes/class-botiga-metabox.php:138
+#: inc/classes/class-botiga-metabox.php:894
+#: inc/customizer/options/layout.php:37 inc/template-functions.php:1258
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/classes/class-botiga-metabox.php:150
+#: inc/customizer/options/woocommerce.php:227
+msgid "No Sidebar"
+msgstr "Без области виджетов"
+
+#: inc/customizer/options/header-mobile.php:514
+#: inc/customizer/options/woocommerce.php:1438
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/customizer/options/blog-single.php:599
+#: inc/customizer/options/blog.php:603 inc/customizer/options/blog.php:859
+#: inc/customizer/options/woocommerce.php:535
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/customizer/options/woocommerce.php:537
+#: inc/plugins/woocommerce/woocommerce-template-functions.php:40
+#: template-parts/content-wishlist.php:73
+msgid "Price"
+msgstr "Цена"
+
+#: inc/customizer/options/blog.php:328
+#: inc/customizer/options/scrolltotop.php:102
+#: inc/customizer/options/topbar.php:333 inc/template-functions.php:591
+msgid "Text"
+msgstr "Текст"
+
+#: inc/customizer/options/scrolltotop.php:87
+#: inc/customizer/options/scrolltotop.php:120
+msgid "Icon"
+msgstr "Значок"
+
+#: inc/customizer/options/blog-single.php:276
+msgid "Image"
+msgstr "Изображение"
+
+#. translators: %s: search query.
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/customizer/options/header-mobile.php:54
+#: inc/customizer/options/header.php:166 inc/customizer/options/layout.php:14
+#: inc/customizer/options/woocommerce.php:109
+#: inc/customizer/options/woocommerce.php:401
+#: inc/customizer/options/woocommerce.php:615
+#: inc/customizer/options/woocommerce.php:755
+#: inc/customizer/options/woocommerce.php:847
+#: inc/customizer/options/woocommerce.php:966
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:440
+msgid "Layout"
+msgstr "Макет"
+
+#: inc/customizer/options/blog-single.php:190
+#: inc/customizer/options/header.php:14
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/dashboard/class-dashboard-settings.php:218
+msgid "Main Header"
+msgstr "Основной заголовок"
+
+#. translators: %s: quick view product title
+#: inc/plugins/woocommerce/features/quick-view.php:115
+msgid "Quick View"
+msgstr "Быстрый просмотр"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:212
+#: inc/customizer/options/navigation.php:127
+msgid "Blog"
+msgstr "Блог"
+
+#: inc/customizer/options/footer.php:18
+msgid "Footer"
+msgstr "Подвал"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%1$s&rdquo;"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к %2$s"
+msgstr[1] "%1$s комментария к %2$s"
+msgstr[2] "%1$s комментариев к %2$s"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:216
+#: inc/customizer/options/woocommerce.php:1451
+#: inc/modules/hf-builder/class-header-footer-builder.php:60
+#: inc/modules/hf-builder/class-header-footer-builder.php:100
+#: inc/modules/hf-builder/components/header/search/customize-options.php:20
+#: inc/template-functions.php:520 inc/template-functions.php:532
+#: inc/template-functions.php:548 inc/template-functions.php:563
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/customizer/options/buttons.php:434
+#: inc/modules/hf-builder/components/footer/button/customize-options.php:271
+#: inc/modules/hf-builder/components/header/button/customize-options.php:256
+#: inc/modules/hf-builder/components/header/button/customize-options.php:380
+msgid "Border Color"
+msgstr "Цвет рамки"
+
+#: inc/customizer/options/woocommerce.php:203
+msgid "Grid"
+msgstr "Сетка"
+
+#: inc/customizer/options/buttons.php:402 inc/customizer/options/header.php:829
+#: inc/customizer/options/header.php:1228
+#: inc/modules/hf-builder/components/footer/button/customize-options.php:238
+#: inc/modules/hf-builder/components/footer/copyright/customize-options.php:123
+#: inc/modules/hf-builder/components/footer/html/customize-options.php:195
+#: inc/modules/hf-builder/components/footer/widget-1/customize-options.php:149
+#: inc/modules/hf-builder/components/footer/widget-2/customize-options.php:149
+#: inc/modules/hf-builder/components/footer/widget-3/customize-options.php:149
+#: inc/modules/hf-builder/components/footer/widget-4/customize-options.php:149
+#: inc/modules/hf-builder/components/header/button/customize-options.php:345
+#: inc/modules/hf-builder/components/header/contact-info/customize-options.php:204
+#: inc/modules/hf-builder/components/header/contact-info/customize-options.php:293
+#: inc/modules/hf-builder/components/header/html/customize-options.php:201
+#: inc/modules/hf-builder/components/header/html/customize-options.php:277
+#: inc/modules/hf-builder/components/header/mobile-offcanvas-menu/customize-options.php:139
+#: inc/modules/hf-builder/components/header/secondary-menu/customize-options.php:140
+#: inc/modules/hf-builder/components/header/secondary-menu/customize-options.php:249
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: inc/classes/class-botiga-metabox.php:142
+#: inc/customizer/controls/dimensions/class_botiga_dimensions_control.php:115
+#: inc/customizer/controls/dimensions/class_botiga_dimensions_control.php:143
+#: inc/customizer/controls/dimensions/class_botiga_dimensions_control.php:170
+#: inc/customizer/options/blog-single.php:150
+#: inc/customizer/options/blog-single.php:211
+#: inc/customizer/options/blog.php:178 inc/customizer/options/blog.php:249
+#: inc/customizer/options/footer.php:609 inc/customizer/options/footer.php:690
+#: inc/customizer/options/footer.php:748 inc/customizer/options/footer.php:791
+#: inc/customizer/options/header.php:279 inc/customizer/options/header.php:421
+#: inc/customizer/options/scrolltotop.php:194
+#: inc/customizer/options/woocommerce.php:231
+msgid "Left"
+msgstr "Слева"
+
+#: inc/classes/class-botiga-metabox.php:146
+#: inc/customizer/controls/dimensions/class_botiga_dimensions_control.php:103
+#: inc/customizer/controls/dimensions/class_botiga_dimensions_control.php:131
+#: inc/customizer/controls/dimensions/class_botiga_dimensions_control.php:158
+#: inc/customizer/options/blog-single.php:151
+#: inc/customizer/options/blog.php:179 inc/customizer/options/blog.php:250
+#: inc/customizer/options/footer.php:611 inc/customizer/options/footer.php:691
+#: inc/customizer/options/footer.php:749 inc/customizer/options/footer.php:792
+#: inc/customizer/options/header.php:281 inc/customizer/options/header.php:434
+#: inc/customizer/options/scrolltotop.php:195
+#: inc/customizer/options/woocommerce.php:235
+msgid "Right"
+msgstr "Справа"
+
+#: inc/customizer/options/woocommerce.php:204
+msgid "List"
+msgstr "Список"
+
+#: inc/dashboard/html-home.php:70 inc/dashboard/html-theme-features.php:64
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/customizer/options/scrolltotop.php:84
+msgid "Type"
+msgstr "Тип"
+
+#: inc/customizer/options/header.php:261
+#: inc/dashboard/class-dashboard-settings.php:95
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/classes/class-botiga-metabox.php:98
+#: inc/customizer/controls/class_botiga_tab_control.php:40
+#: inc/customizer/options/colors.php:79
+#: inc/customizer/options/typography.php:34
+#: inc/customizer/options/woocommerce.php:12
+#: inc/dashboard/class-dashboard-settings.php:104
+msgid "General"
+msgstr "Основные"
+
+#: inc/plugins/woocommerce/features/quick-view.php:281
+msgid "N/A"
+msgstr "Н/Д"
+
+#: inc/customizer/options/header.php:665
+#: inc/modules/hf-builder/components/footer/button/customize-options.php:64
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: inc/customizer/options/footer.php:726 inc/customizer/options/topbar.php:301
+msgid "Add new"
+msgstr "Добавить"
+
+#: inc/customizer/options/footer.php:73
+msgid "Disabled"
+msgstr "Отключено"
+
+#: inc/customizer/options/woocommerce.php:680
+#: inc/plugins/woocommerce/features/sale-badge.php:17
+msgid "Sale!"
+msgstr "Распродажа!"
+
+#: searchform.php:18 searchform.php:29
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/plugins/woocommerce/woocommerce-template-functions.php:279
+msgid "This product is currently out of stock and unavailable."
+msgstr "Этого товара нет в наличии, заказ недоступен."
+
+#: inc/plugins/woocommerce/features/quick-view.php:285
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Категория:"
+msgstr[1] "Категории:"
+msgstr[2] "Категорий:"
+
+#. translators: %s: customer review text
+#: inc/plugins/woocommerce/features/quick-view.php:200
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s отзыв клиента"
+msgstr[1] "%s отзыва клиентов"
+msgstr[2] "%s отзывов клиентов"
+
+#: inc/customizer/options/woocommerce-single.php:420
+#: inc/plugins/woocommerce/features/related-products.php:93
+msgid "Related products"
+msgstr "Похожие товары"
+
+#: template-parts/content-quick-view.php:49
+msgid "Awaiting product image"
+msgstr "Ожидается изображения товара"
+
+#: inc/customizer/options/blog.php:194
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:138
+#: inc/modules/hf-builder/components/header/row/customize-options.php:150
+msgid "Columns"
+msgstr "Столбцы"
+
+#: inc/dashboard/class-dashboard-settings.php:184
+#: inc/dashboard/class-dashboard-settings.php:192
+#: inc/dashboard/class-dashboard-settings.php:200
+#: inc/dashboard/class-dashboard-settings.php:209
+#: inc/dashboard/class-dashboard-settings.php:220
+#: inc/dashboard/class-dashboard-settings.php:228
+#: inc/dashboard/class-dashboard-settings.php:236
+#: inc/dashboard/class-dashboard-settings.php:245
+#: inc/dashboard/class-dashboard-settings.php:253
+#: inc/dashboard/class-dashboard-settings.php:261
+#: inc/dashboard/class-dashboard-settings.php:269
+#: inc/dashboard/class-dashboard-settings.php:277
+#: inc/dashboard/class-dashboard-settings.php:285
+#: inc/dashboard/class-dashboard-settings.php:293
+#: inc/dashboard/class-dashboard-settings.php:301
+#: inc/dashboard/class-dashboard-settings.php:318
+#: inc/dashboard/class-dashboard-settings.php:328
+#: inc/dashboard/class-dashboard-settings.php:337
+#: inc/dashboard/class-dashboard-settings.php:345
+#: inc/dashboard/class-dashboard-settings.php:353
+#: inc/dashboard/class-dashboard-settings.php:361
+#: inc/dashboard/class-dashboard-settings.php:369
+#: inc/dashboard/class-dashboard-settings.php:379
+#: inc/dashboard/class-dashboard-settings.php:389
+#: inc/dashboard/class-dashboard-settings.php:399
+#: inc/dashboard/class-dashboard-settings.php:409
+#: inc/dashboard/class-dashboard-settings.php:420
+#: inc/dashboard/class-dashboard-settings.php:430
+#: inc/dashboard/class-dashboard-settings.php:440
+#: inc/dashboard/class-dashboard-settings.php:450
+#: inc/dashboard/class-dashboard-settings.php:460
+#: inc/dashboard/class-dashboard-settings.php:486
+#: inc/dashboard/class-dashboard-settings.php:496
+#: inc/dashboard/class-dashboard-settings.php:506
+#: inc/dashboard/class-dashboard-settings.php:516
+#: inc/dashboard/class-dashboard-settings.php:526
+#: inc/dashboard/class-dashboard-settings.php:536
+msgid "Customize"
+msgstr "Настроить"
+
+#: inc/customizer/options/blog-single.php:380
+#: inc/customizer/options/blog-single.php:797
+#: inc/customizer/options/blog.php:484 inc/customizer/options/blog.php:804
+#: inc/plugins/woocommerce/woocommerce-template-functions.php:44
+msgid "Meta"
+msgstr "Мета"
+
+#: inc/customizer/controls/typography-adobe/class_botiga_typography_adobe.php:83
+#: inc/customizer/controls/typography/class_botiga_typography.php:81
+msgid "Font family"
+msgstr "Семейство шрифтов"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:59
+msgid ", "
+msgstr ", "
+
+#: inc/customizer/controls/dimensions/class_botiga_dimensions_control.php:97
+#: inc/customizer/controls/dimensions/class_botiga_dimensions_control.php:125
+#: inc/customizer/controls/dimensions/class_botiga_dimensions_control.php:152
+#: inc/customizer/options/blog.php:365 inc/customizer/options/footer.php:162
+#: inc/modules/hf-builder/components/footer/columns/customize-options.php:112
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:176
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:345
+#: inc/modules/hf-builder/components/header/columns/customize-options.php:114
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:235
+#: inc/modules/hf-builder/components/header/row/customize-options.php:379
+msgid "Top"
+msgstr "Сверху"
+
+#: inc/customizer/options/blog-single.php:212
+#: inc/customizer/options/blog.php:366 inc/customizer/options/footer.php:163
+#: inc/modules/hf-builder/components/footer/columns/customize-options.php:113
+#: inc/modules/hf-builder/components/header/columns/customize-options.php:115
+msgid "Middle"
+msgstr "Посередине"
+
+#: inc/customizer/options/blog.php:231
+msgid "Featured image"
+msgstr "Изображение записи"
+
+#: functions.php:192
+msgid "Large"
+msgstr "Большой"
+
+#: inc/customizer/options/colors.php:99 inc/customizer/options/colors.php:385
+#: inc/customizer/options/footer.php:235 inc/customizer/options/footer.php:814
+#: inc/customizer/options/header-mobile.php:400
+#: inc/customizer/options/header-mobile.php:494
+#: inc/customizer/options/header.php:801 inc/customizer/options/header.php:1199
+#: inc/customizer/options/scrolltotop.php:355
+#: inc/customizer/options/topbar.php:422
+#: inc/customizer/options/woocommerce.php:1418
+#: inc/customizer/options/woocommerce.php:1716
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:109
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:168
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: inc/customizer/options/colors.php:366 inc/customizer/options/footer.php:834
+#: inc/customizer/options/header-mobile.php:420
+#: inc/customizer/options/topbar.php:442
+#: inc/customizer/options/woocommerce.php:1737
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: inc/classes/class-botiga-posts-archive.php:255
+msgid "Read more"
+msgstr "Читать далее"
+
+#: inc/customizer/controls/dimensions/class_botiga_dimensions_control.php:109
+#: inc/customizer/controls/dimensions/class_botiga_dimensions_control.php:137
+#: inc/customizer/controls/dimensions/class_botiga_dimensions_control.php:164
+#: inc/customizer/options/blog.php:367 inc/customizer/options/footer.php:164
+#: inc/customizer/options/header.php:501
+#: inc/modules/hf-builder/components/footer/columns/customize-options.php:114
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:178
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:347
+#: inc/modules/hf-builder/components/header/columns/customize-options.php:116
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:237
+#: inc/modules/hf-builder/components/header/row/customize-options.php:381
+msgid "Bottom"
+msgstr "Снизу"
+
+#: inc/customizer/options/colors.php:222
+#: inc/customizer/options/typography.php:274
+msgid "Headings"
+msgstr "Заголовки"
+
+#: inc/customizer/options/typography.php:210
+#: inc/customizer/options/typography.php:389
+#: inc/customizer/options/typography.php:815
+msgid "Line height"
+msgstr "Высота строки"
+
+#: inc/customizer/options/typography.php:13
+#: inc/dashboard/class-dashboard-settings.php:190
+msgid "Typography"
+msgstr "Типографика"
+
+#: functions.php:186
+#: inc/customizer/controls/color-group/class_botiga_color_group.php:28
+#: inc/customizer/options/typography.php:164
+#: inc/customizer/options/typography.php:376
+#: inc/customizer/options/typography.php:765
+msgid "Normal"
+msgstr "Обычный"
+
+#: inc/customizer/options/scrolltotop.php:323
+#: inc/modules/hf-builder/components/header/mobile-hamburger/customize-options.php:125
+msgid "Icon color"
+msgstr "Цвет значка"
+
+#: inc/customizer/options/header.php:475
+msgid "Top left"
+msgstr "Вверху слева"
+
+#: inc/customizer/options/header.php:488
+msgid "Top right"
+msgstr "Вверху справа"
+
+#: inc/customizer/options/buttons.php:197
+#: inc/customizer/options/typography.php:232
+#: inc/customizer/options/typography.php:411
+#: inc/customizer/options/typography.php:838
+msgid "Letter spacing"
+msgstr "Межбуквенный интервал"
+
+#. translators: %s: color palette
+#: functions.php:152 functions.php:161
+msgid "Color %s"
+msgstr "Цвет %s"
+
+#: inc/customizer/options/scrolltotop.php:126
+msgid "Icon 1"
+msgstr "Значок 1"
+
+#: inc/customizer/options/scrolltotop.php:130
+msgid "Icon 2"
+msgstr "Значок 2"
+
+#: inc/customizer/options/scrolltotop.php:134
+msgid "Icon 3"
+msgstr "Значок 3"
+
+#: inc/customizer/options/scrolltotop.php:374
+msgid "Icon size"
+msgstr "Размер значка"
+
+#: inc/customizer/options/header.php:1060
+#: inc/customizer/options/scrolltotop.php:396
+#: inc/modules/hf-builder/components/footer/columns/customize-options.php:300
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:240
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:452
+#: inc/modules/hf-builder/components/header/columns/customize-options.php:306
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:299
+#: inc/modules/hf-builder/components/header/row/customize-options.php:486
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: inc/customizer/options/buttons.php:15
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: inc/customizer/options/buttons.php:172
+#: inc/customizer/options/typography.php:187
+msgid "Font size"
+msgstr "Размер шрифта"
+
+#: inc/modules/hf-builder/components/header/button/customize-options.php:159
+msgid "Default state"
+msgstr "Состояние по умолчанию"
+
+#: inc/customizer/options/header-mobile.php:165
+#: inc/customizer/options/woocommerce-single.php:88
+#: inc/customizer/options/woocommerce.php:406
+#: inc/customizer/options/woocommerce.php:436
+#: inc/customizer/options/woocommerce.php:509
+#: inc/customizer/options/woocommerce.php:620
+#: inc/customizer/options/woocommerce.php:760
+#: inc/customizer/options/woocommerce.php:852
+#: inc/customizer/options/woocommerce.php:971
+#: inc/customizer/options/woocommerce.php:1040 inc/template-functions.php:468
+#: inc/template-functions.php:498
+msgid "Layout 1"
+msgstr "Макет 1"
+
+#: inc/customizer/options/header-mobile.php:169
+#: inc/customizer/options/woocommerce-single.php:92
+#: inc/customizer/options/woocommerce.php:410
+#: inc/customizer/options/woocommerce.php:440
+#: inc/customizer/options/woocommerce.php:513
+#: inc/customizer/options/woocommerce.php:624
+#: inc/customizer/options/woocommerce.php:764
+#: inc/customizer/options/woocommerce.php:856
+#: inc/customizer/options/woocommerce.php:975
+#: inc/customizer/options/woocommerce.php:1044 inc/template-functions.php:472
+#: inc/template-functions.php:502
+msgid "Layout 2"
+msgstr "Макет 2"
+
+#: inc/customizer/options/footer.php:610 inc/customizer/options/header.php:280
+#: inc/modules/hf-builder/components/footer/columns/customize-options.php:208
+#: inc/modules/hf-builder/components/footer/footer-builder/customize-options.php:177
+#: inc/modules/hf-builder/components/footer/row/customize-options.php:346
+#: inc/modules/hf-builder/components/header/columns/customize-options.php:214
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:236
+#: inc/modules/hf-builder/components/header/row/customize-options.php:380
+msgid "Center"
+msgstr "По центру"
+
+#: inc/customizer/options/header.php:649
+#: inc/modules/hf-builder/class-header-footer-builder.php:68
+#: inc/modules/hf-builder/class-header-footer-builder.php:108
+#: inc/modules/hf-builder/components/header/button/customize-options.php:25
+#: inc/template-functions.php:522 inc/template-functions.php:534
+#: inc/template-functions.php:550 inc/template-functions.php:565
+msgid "Button"
+msgstr "Кнопка"
+
+#: inc/customizer/options/header.php:747 inc/customizer/options/topbar.php:218
+#: inc/template-functions.php:523 inc/template-functions.php:535
+#: inc/template-functions.php:551 inc/template-functions.php:566
+#: inc/template-functions.php:593
+msgid "Contact info"
+msgstr "Контактная информация"
+
+#: inc/customizer/options/header.php:778 inc/customizer/options/topbar.php:249
+msgid "Phone number"
+msgstr "Номер телефона"
+
+#: inc/customizer/options/header.php:1121 inc/customizer/options/topbar.php:548
+#: inc/customizer/options/woocommerce.php:1129
+msgid "Border size"
+msgstr "Размер рамки"
+
+#: inc/customizer/options/typography.php:162
+#: inc/customizer/options/typography.php:374
+#: inc/customizer/options/typography.php:763
+msgid "Font style"
+msgstr "Стиль шрифта"
+
+#: inc/customizer/options/typography.php:165
+#: inc/customizer/options/typography.php:377
+#: inc/customizer/options/typography.php:766
+msgid "Italic"
+msgstr "Курсив"
+
+#: inc/customizer/options/typography.php:166
+#: inc/customizer/options/typography.php:378
+#: inc/customizer/options/typography.php:767
+msgid "Oblique"
+msgstr "Наклонный"
+
+#: inc/customizer/options/blog-single.php:622
+#: inc/customizer/options/blog.php:626 inc/customizer/options/buttons.php:70
+#: inc/customizer/options/typography.php:663
+#: inc/customizer/options/woocommerce-single.php:462
+#: inc/customizer/options/woocommerce.php:1194
+msgid "Body"
+msgstr "Основная часть"
+
+#: inc/customizer/options/woocommerce-single.php:96
+#: inc/customizer/options/woocommerce.php:444
+#: inc/customizer/options/woocommerce.php:517
+#: inc/customizer/options/woocommerce.php:768
+#: inc/customizer/options/woocommerce.php:1048 inc/template-functions.php:476
+#: inc/template-functions.php:506
+msgid "Layout 3"
+msgstr "Макет 3"
+
+#: inc/template-tags.php:499
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться одной из ссылок ниже или поиском."
+
+#: inc/template-tags.php:509
+msgid "Most Popular"
+msgstr "Самые популярные"
+
+#: inc/customizer/options/woocommerce-single.php:171
+#: inc/dashboard/class-dashboard-settings.php:494
+msgid "Breadcrumbs"
+msgstr "Цепочки навигации"
+
+#: functions.php:66
+msgid "Primary"
+msgstr "Основной"
+
+#: functions.php:180
+msgid "Small"
+msgstr "Маленький"
+
+#: inc/customizer/options/woocommerce.php:200
+msgid "Layout type"
+msgstr "Тип макета"
+
+#: functions.php:193 functions.php:199
+msgctxt "Font size"
+msgid "L"
+msgstr "L"
+
+#: inc/customizer/options/woocommerce.php:287
+msgid "Page title"
+msgstr "Заголовок страницы"
+
+#: functions.php:198
+msgid "Larger"
+msgstr "Больше"
+
+#: functions.php:204
+msgid "Extra large"
+msgstr "Очень большой"
+
+#: functions.php:205
+msgctxt "Font size"
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:210
+msgid "Huge"
+msgstr "Огромный"
+
+#: functions.php:211
+msgctxt "Font size"
+msgid "XXL"
+msgstr "XXL"
+
+#: inc/customizer/options/woocommerce.php:448
+#: inc/customizer/options/woocommerce.php:772 inc/template-functions.php:480
+msgid "Layout 4"
+msgstr "Макет 4"
+
+#: functions.php:257 inc/classes/class-botiga-metabox.php:129
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: functions.php:259 functions.php:275
+msgid "Add widgets here."
+msgstr "Добавьте виджеты здесь."
+
+#: inc/customizer/options/woocommerce.php:536
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: inc/classes/class-botiga-footer.php:300
+#: inc/customizer/options/scrolltotop.php:98
+msgid "Back to top"
+msgstr "Наверх"
+
+#: inc/customizer/options/woocommerce.php:539
+msgid "Short description"
+msgstr "Краткое описание"
+
+#: inc/classes/class-botiga-header.php:637
+#: inc/customizer/options/header.php:661
+#: inc/modules/hf-builder/components/footer/button/button.php:13
+#: inc/modules/hf-builder/components/footer/button/customize-options.php:60
+#: inc/modules/hf-builder/components/header/button/button.php:13
+msgid "Click me"
+msgstr "Нажмите меня"
+
+#: inc/customizer/options/woocommerce.php:684
+msgid "Badge text"
+msgstr "Текст бейджа"
+
+#: inc/classes/class-botiga-metabox.php:135
+#: inc/customizer/options/woocommerce.php:222
+msgid "Sidebar Layout"
+msgstr "Разметка области виджетов"
+
+#: inc/ajax-callbacks.php:99 inc/customizer/options/woocommerce-single.php:272
+#: inc/customizer/options/woocommerce.php:736
+msgid "Categories"
+msgstr "Категории"
+
+#: inc/customizer/options/woocommerce.php:776 inc/template-functions.php:484
+msgid "Layout 5"
+msgstr "Макет 5"
+
+#: inc/customizer/controls/display-conditions/display-conditions-script-template.php:84
+#: inc/customizer/options/woocommerce.php:830
+msgid "Cart"
+msgstr "Корзина"
+
+#: inc/customizer/options/woocommerce.php:1035
+msgid "Card Style"
+msgstr "Стиль карты"
+
+#: inc/customizer/controls/class_botiga_tab_control.php:41
+msgid "Style"
+msgstr "Стиль"
+
+#: inc/customizer/controls/repeater/class_botiga_repeater.php:39
+msgid "Add"
+msgstr "Добавить"
+
+#: inc/customizer/controls/custom-fonts/class_botiga_typography_custom_control.php:106
+#: inc/customizer/controls/typography-adobe/class_botiga_typography_adobe.php:101
+#: inc/customizer/controls/typography/class_botiga_typography.php:105
+msgid "Font weight"
+msgstr "Толщина шрифта"
+
+#: inc/template-tags.php:72
+msgid "1 comment"
+msgstr "1 комментарий"
+
+#: inc/template-tags.php:72
+msgid "% comments"
+msgstr "% комментария(ев)"
+
+#: inc/customizer/options/blog-single.php:295
+msgid "Show featured image"
+msgstr "Показать изображение страницы"
+
+#: inc/customizer/options/blog-single.php:316
+msgid "Below"
+msgstr "Ниже"
+
+#: inc/customizer/options/blog-single.php:333
+msgid "Image spacing"
+msgstr "Расстояние между изображениями"
+
+#: inc/customizer/options/blog-single.php:398
+#: inc/customizer/options/blog.php:499 inc/customizer/options/footer.php:686
+#: inc/customizer/options/footer.php:744 inc/customizer/options/footer.php:788
+#: inc/customizer/options/scrolltotop.php:191
+msgid "Position"
+msgstr "Позиция"
+
+#: inc/customizer/options/blog-single.php:401
+#: inc/customizer/options/blog.php:502
+msgid "Above title"
+msgstr "Над заголовком"
+
+#: inc/customizer/options/blog-single.php:417
+#: inc/customizer/options/blog.php:518
+msgid "Post date"
+msgstr "Дата записи"
+
+#: inc/customizer/options/blog-single.php:418
+#: inc/customizer/options/blog.php:519
+msgid "Post author"
+msgstr "Автор записи"
+
+#: inc/customizer/options/blog-single.php:435
+#: inc/customizer/options/blog.php:290 inc/customizer/options/blog.php:555
+#: inc/customizer/options/woocommerce.php:640
+msgid "Spacing"
+msgstr "Интервал"
+
+#: inc/customizer/options/blog-single.php:482
+#: inc/customizer/options/footer.php:632 inc/customizer/options/header.php:390
+#: inc/customizer/options/navigation.php:49
+#: inc/customizer/options/topbar.php:137
+#: inc/customizer/options/woocommerce-single.php:232
+msgid "Elements"
+msgstr "Элементы"
+
+#: inc/customizer/options/blog-single.php:500
+msgid "Post tags"
+msgstr "Теги записи"
+
+#: inc/customizer/options/blog-single.php:518
+msgid "Author box"
+msgstr "Блок автора"
+
+#: inc/customizer/options/blog-single.php:558
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: inc/customizer/options/blog-single.php:777
+#: inc/customizer/options/blog.php:770
+msgid "Title color"
+msgstr "Цвет заголовка"
+
+#: inc/dashboard/class-dashboard-settings.php:198
+msgid "Color Options"
+msgstr "Параметры цвета"
+
+#: inc/customizer/options/blog.php:104 inc/customizer/options/blog.php:108
+#: inc/customizer/options/blog.php:112 inc/customizer/options/footer.php:81
+#: inc/customizer/options/footer.php:85 inc/customizer/options/footer.php:89
+#: inc/customizer/options/footer.php:571
+msgid "2 columns"
+msgstr "2 столбца"
+
+#: inc/customizer/options/blog.php:116 inc/customizer/options/blog.php:120
+#: inc/customizer/options/footer.php:93 inc/customizer/options/footer.php:97
+#: inc/customizer/options/footer.php:101
+msgid "3 columns"
+msgstr "3 столбца"
+
+#: inc/customizer/options/blog.php:197
+msgid "2"
+msgstr "2"
+
+#: inc/customizer/options/blog.php:198
+msgid "3"
+msgstr "3"
+
+#: inc/dashboard/class-dashboard-settings.php:259
+#: inc/dashboard/html-home.php:39
+msgid "Button Options"
+msgstr "Параметры кнопки"
+
+#: inc/customizer/options/blog.php:199
+msgid "4"
+msgstr "4"
+
+#: inc/dashboard/class-dashboard-settings.php:267
+msgid "Product Catalog"
+msgstr "Каталог товаров"
+
+#: inc/customizer/options/blog.php:265
+msgid "Image size"
+msgstr "Размер изображения"
+
+#: inc/customizer/options/blog.php:343
+#: inc/customizer/options/woocommerce.php:552
+#: inc/customizer/options/woocommerce.php:793
+msgid "Text alignment"
+msgstr "Выравнивание текста"
+
+#: inc/customizer/options/scrolltotop.php:14
+#: inc/dashboard/class-dashboard-settings.php:299
+msgid "Scroll to Top"
+msgstr "Прокрутить вверх"
+
+#: inc/customizer/options/blog.php:362 inc/customizer/options/footer.php:159
+msgid "Vertical alignment"
+msgstr "Выравнивание по вертикали"
+
+#: inc/dashboard/class-dashboard-settings.php:105
+msgid "Performance"
+msgstr "Производительность"
+
+#: inc/dashboard/class-dashboard-settings.php:47
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro версии"
+
+#: inc/customizer/options/blog.php:382
+msgid "Title spacing"
+msgstr "Расстояние между заголовками"
+
+#: inc/customizer/options/blog.php:423
+msgid "Excerpt length"
+msgstr "Длина отрывка"
+
+#: template-parts/header-mobile/content-header-mobile-icons.php:21
+#: template-parts/header-mobile/content-header-mobile-offcanvas-icons.php:21
+#: template-parts/header/content-header-icons.php:21
+msgid "Your account"
+msgstr "Ваша учётная запись"
+
+#: inc/customizer/options/blog.php:538
+msgid "Show author avatar"
+msgstr "Показать аватар автора"
+
+#: template-parts/header-mobile/content-header-mobile-icons.php:35
+#: template-parts/header-mobile/content-header-mobile-offcanvas-icons.php:35
+#: template-parts/header/content-header-icons.php:35
+msgid "Your Cart"
+msgstr "Ваша корзина"
+
+#: inc/customizer/options/blog.php:581 inc/customizer/options/topbar.php:88
+#: inc/customizer/options/woocommerce.php:1593
+msgid "None"
+msgstr "Отсутствует"
+
+#: inc/plugins/woocommerce/woocommerce-template-functions.php:295
+msgid "Clear"
+msgstr "Очистить"
+
+#: searchform.php:16
+msgid "Search&hellip;"
+msgstr "Поиск&hellip;"
+
+#: searchform.php:17
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск&hellip;"
+
+#: searchform.php:28
+msgid "Search products&hellip;"
+msgstr "Поиск товаровs&hellip;"
+
+#: inc/customizer/options/colors.php:174
+msgid "Links"
+msgstr "Ссылки"
+
+#: inc/customizer/options/colors.php:241
+#: inc/customizer/options/typography.php:476
+msgid "Heading 1"
+msgstr "Заголовок 1"
+
+#: inc/customizer/options/colors.php:259
+#: inc/customizer/options/typography.php:509
+msgid "Heading 2"
+msgstr "Заголовок 2"
+
+#: inc/customizer/options/colors.php:277
+#: inc/customizer/options/typography.php:542
+msgid "Heading 3"
+msgstr "Заголовок 3"
+
+#: inc/customizer/options/colors.php:295
+#: inc/customizer/options/typography.php:575
+msgid "Heading 4"
+msgstr "Заголовок 4"
+
+#: inc/plugins/woocommerce/features/quick-view.php:281
+msgid "SKU:"
+msgstr "Артикул:"
+
+#: inc/customizer/options/colors.php:313
+#: inc/customizer/options/typography.php:608
+msgid "Heading 5"
+msgstr "Заголовок 5"
+
+#: inc/customizer/options/colors.php:331
+#: inc/customizer/options/typography.php:641
+msgid "Heading 6"
+msgstr "Заголовок 6"
+
+#: inc/customizer/options/colors.php:347
+msgid "Form fields"
+msgstr "Поля формы"
+
+#: inc/customizer/options/colors.php:442
+msgid "Placeholder color"
+msgstr "Цвет заполнителя"
+
+#: inc/customizer/options/footer.php:105 inc/customizer/options/footer.php:109
+#: inc/customizer/options/footer.php:113
+msgid "4 columns"
+msgstr "4 столбца"
+
+#: inc/customizer/options/footer.php:145 inc/customizer/options/footer.php:392
+#: inc/customizer/options/footer.php:590 inc/customizer/options/footer.php:960
+#: inc/customizer/options/header.php:299 inc/customizer/options/header.php:1158
+#: inc/customizer/options/topbar.php:70 inc/customizer/options/topbar.php:583
+msgid "Contained"
+msgstr "Ограниченно"
+
+#: inc/customizer/options/footer.php:177
+#: inc/customizer/options/scrolltotop.php:290
+#: inc/customizer/options/topbar.php:105
+#: inc/modules/hf-builder/components/footer/button/customize-options.php:150
+#: inc/modules/hf-builder/components/footer/copyright/customize-options.php:92
+#: inc/modules/hf-builder/components/footer/html/customize-options.php:164
+#: inc/modules/hf-builder/components/footer/social/customize-options.php:94
+#: inc/modules/hf-builder/components/footer/widget-1/customize-options.php:97
+#: inc/modules/hf-builder/components/footer/widget-2/customize-options.php:97
+#: inc/modules/hf-builder/components/footer/widget-3/customize-options.php:97
+#: inc/modules/hf-builder/components/footer/widget-4/customize-options.php:97
+#: inc/modules/hf-builder/components/header/button/customize-options.php:111
+#: inc/modules/hf-builder/components/header/contact-info/customize-options.php:127
+#: inc/modules/hf-builder/components/header/html/customize-options.php:170
+#: inc/modules/hf-builder/components/header/logo/customize-options.php:177
+#: inc/modules/hf-builder/components/header/menu/customize-options.php:119
+#: inc/modules/hf-builder/components/header/mobile-hamburger/customize-options.php:94
+#: inc/modules/hf-builder/components/header/mobile-offcanvas-menu/customize-options.php:100
+#: inc/modules/hf-builder/components/header/search/customize-options.php:94
+#: inc/modules/hf-builder/components/header/secondary-menu/customize-options.php:101
+#: inc/modules/hf-builder/components/header/social/customize-options.php:96
+#: inc/modules/hf-builder/components/header/wc-icons/customize-options.php:101
+msgid "Visibility"
+msgstr "Видимость"
+
+#: inc/dashboard/part-support.php:34
+msgid "Get Support"
+msgstr "Получить поддержку"
+
+#: inc/customizer/options/footer.php:456
+msgid "Column spacing"
+msgstr "Расстояние между столбцами"
+
+#: inc/dashboard/html-home.php:109
+msgid "Changelog"
+msgstr "Журнал изменений"
+
+#: inc/dashboard/html-home.php:114
+msgid "See The Changelog"
+msgstr "См. журнал изменений"
+
+#: inc/customizer/options/scrolltotop.php:31
+msgid "Enable scroll to top"
+msgstr "Включить прокрутку вверх"
+
+#: inc/customizer/options/scrolltotop.php:88
+msgid "Text + Icon"
+msgstr "Текст + значок"
+
+#: inc/customizer/options/scrolltotop.php:138
+msgid "Icon 4"
+msgstr "Значок 4"
+
+#: inc/customizer/options/header.php:680
+#: inc/modules/hf-builder/components/footer/button/customize-options.php:79
+msgid "Button link"
+msgstr "Ссылка кнопки"
+
+#: inc/customizer/options/header.php:763 inc/customizer/options/topbar.php:234
+msgid "Email address"
+msgstr "Email-адрес"
+
+#: inc/customizer/options/header.php:1155 inc/customizer/options/topbar.php:580
+msgid "Border width"
+msgstr "Ширина рамки"
+
+#: inc/customizer/options/topbar.php:282
+#: inc/modules/hf-builder/class-header-footer-builder.php:56
+#: inc/modules/hf-builder/class-header-footer-builder.php:96
+#: inc/modules/hf-builder/class-header-footer-builder.php:141
+#: inc/template-functions.php:590
+msgid "Social"
+msgstr "Соцсети"
+
+#: functions.php:181
+msgctxt "Font size"
+msgid "S"
+msgstr "S"
+
+#: functions.php:187
+msgctxt "Font size"
+msgid "N"
+msgstr "N"
+
+#: functions.php:217
+msgctxt "Font size"
+msgid "XXXL"
+msgstr "XXXL"
+
+#: inc/customizer/options/woocommerce.php:504
+msgid "Quick view"
+msgstr "Быстрый просмотр"
+
+#. translators: %s = footer widget area number
+#: functions.php:273
+msgid "Footer %s"
+msgstr "Подвал %s"
+
+#: inc/classes/class-botiga-header.php:660
+#: inc/classes/class-botiga-topbar.php:138
+#: inc/customizer/options/header.php:759 inc/customizer/options/topbar.php:230
+#: inc/modules/hf-builder/components/header/contact-info/contact-info.php:14
+msgid "office@example.org"
+msgstr "office@example.org"
+
+#: inc/customizer/options/woocommerce.php:596
+#: inc/customizer/options/woocommerce.php:1398
+msgid "Sale tag"
+msgstr "Метка распродажи"
+
+#: inc/classes/class-botiga-header.php:661
+#: inc/classes/class-botiga-topbar.php:139
+#: inc/customizer/options/header.php:774 inc/customizer/options/topbar.php:245
+#: inc/modules/hf-builder/components/header/contact-info/contact-info.php:15
+msgid "111222333"
+msgstr "111222333"
+
+#: inc/customizer/options/woocommerce.php:662
+#: inc/customizer/options/woocommerce.php:812
+msgid "Border radius"
+msgstr "Скругление углов"
+
+#: inc/template-tags.php:72
+msgid "0 comments"
+msgstr "0 комментариев"
+
+#: inc/customizer/options/blog-single.php:128
+#: inc/customizer/options/blog.php:160
+msgid "Enable sidebar"
+msgstr "Включить область виджетов"
+
+#: inc/customizer/options/blog-single.php:147
+#: inc/customizer/options/blog.php:175
+msgid "Sidebar position"
+msgstr "Позиция области виджетов"
+
+#. translators: %s: Author name
+#: inc/template-tags.php:378
+msgid "By %s"
+msgstr "От %s"
+
+#: inc/customizer/options/blog-single.php:317
+msgid "Above"
+msgstr "Над"
+
+#: inc/dashboard/html-home.php:155
+msgid "Botiga Pro"
+msgstr "Botiga Pro"
+
+#: inc/customizer/options/buttons.php:335
+#: inc/customizer/options/scrolltotop.php:155
+msgid "Button radius"
+msgstr "Закругление кнопок"
+
+#: inc/customizer/options/scrolltotop.php:218
+msgid "Side offset"
+msgstr "Боковое смещение"
+
+#: inc/customizer/options/scrolltotop.php:252
+msgid "Bottom offset"
+msgstr "Смещение снизу"
+
+#: inc/customizer/options/header-mobile.php:14
+msgid "Mobile header"
+msgstr "Заголовок для мобильных"
+
+#: inc/customizer/options/header-mobile.php:71
+msgid "Additional elements"
+msgstr "Дополнительные элементы"
+
+#: inc/customizer/options/woocommerce-single.php:117
+msgid "Gallery thumbnail slider"
+msgstr "Слайдер галереи миниатюр"
+
+#: inc/customizer/options/woocommerce-single.php:312
+msgid "Product tabs"
+msgstr "Вкладки товара"
+
+#: inc/template-tags.php:349
+msgid "Next:"
+msgstr "Далее:"
+
+#: inc/customizer/options/blog-single.php:402
+msgid "Below title"
+msgstr "Ниже заголовка"
+
+#: inc/customizer/options/blog-single.php:414
+#: inc/customizer/options/blog.php:515
+msgid "Meta elements"
+msgstr "Мета элементов"
+
+#: inc/customizer/options/blog-single.php:419
+#: inc/customizer/options/blog.php:520
+msgid "Post categories"
+msgstr "Рубрики записи"
+
+#: inc/dashboard/class-dashboard-settings.php:30
+msgid "Welcome to Botiga"
+msgstr "Добро пожаловать в Botiga"
+
+#: inc/customizer/options/blog-single.php:854
+#: inc/customizer/options/blog.php:843
+msgid "Meta color"
+msgstr "Цвет мета"
+
+#: inc/dashboard/class-dashboard-settings.php:226
+#: inc/modules/hf-builder/components/header/header-builder/customize-options.php:88
+msgid "Mobile Header"
+msgstr "Заголовок для мобильных"
+
+#: inc/dashboard/class-dashboard-settings.php:234
+msgid "Footer Copyright"
+msgstr "Copyright в подвале"
+
+#: inc/customizer/options/blog-single.php:15
+#: inc/dashboard/class-dashboard-settings.php:251
+msgid "Single Posts"
+msgstr "Отдельные записи"
+
+#: inc/dashboard/class-dashboard-settings.php:275
+msgid "Single Products"
+msgstr "Отдельный товар"
+
+#: inc/customizer/options/blog.php:409
+msgid "Show excerpt"
+msgstr "Показать отрывок"
+
+#: inc/dashboard/class-dashboard-settings.php:49
+msgid "Discover Botiga Pro"
+msgstr "Откройте для себя Botiga Pro"
+
+#: inc/customizer/options/blog.php:452
+msgid "Read more link"
+msgstr "Ссылка Читать далее"
+
+#: inc/customizer/options/blog.php:914
+msgid "Excerpt color"
+msgstr "Цвет отрывка"
+
+#: inc/customizer/options/colors.php:18
+msgid "Color palettes"
+msgstr "Палитра цветов"
+
+#: inc/customizer/options/footer.php:292 inc/customizer/options/footer.php:854
+msgid "Links color"
+msgstr "Цвет ссылок"
+
+#: inc/dashboard/class-dashboard.php:63 inc/dashboard/html-hero.php:62
+msgid "Theme Dashboard"
+msgstr "Консоль темы"
+
+#: inc/customizer/options/colors.php:404 inc/customizer/options/header.php:1139
+#: inc/customizer/options/topbar.php:565
+#: inc/customizer/options/woocommerce.php:1156
+msgid "Border color"
+msgstr "Цвет рамки"
+
+#: inc/customizer/options/footer.php:29
+msgid "Footer widgets"
+msgstr "Виджеты в подвале"
+
+#: inc/customizer/options/footer.php:67
+msgid "Footer widgets layout"
+msgstr "Макет виджетов в подвале"
+
+#: inc/dashboard/html-hero.php:27
+msgid "Hello, "
+msgstr "Привет, "
+
+#: inc/customizer/options/footer.php:179
+#: inc/customizer/options/scrolltotop.php:292
+#: inc/customizer/options/topbar.php:107
+msgid "Show on all devices"
+msgstr "Показывать на всех устройствах"
+
+#: inc/dashboard/html-hero.php:29
+msgid "👋🏻"
+msgstr "👋🏻"
+
+#: inc/customizer/options/footer.php:180
+#: inc/customizer/options/scrolltotop.php:293
+#: inc/customizer/options/topbar.php:108
+msgid "Desktop only"
+msgstr "Только компьютер"
+
+#: inc/customizer/options/footer.php:210
+msgid "Widget area 1"
+msgstr "Область виджетов 1"
+
+#: inc/customizer/options/footer.php:211
+msgid "Widget area 2"
+msgstr "Область виджетов 2"
+
+#: inc/customizer/options/footer.php:212
+msgid "Widget area 3"
+msgstr "Область виджетов 3"
+
+#: inc/customizer/options/footer.php:213
+msgid "Widget area 4"
+msgstr "Область виджетов 4"
+
+#: inc/customizer/options/footer.php:525
+msgid "Copyright area"
+msgstr "Область Copyright"
+
+#: inc/dashboard/html-home.php:179
+msgid "It makes us happy to hear from our users. We would appreciate a review."
+msgstr "Нам приятно узнавать впечатления наших пользователей. Мы будем благодарны за отзыв."
+
+#: inc/customizer/options/footer.php:666
+msgid "Footer credits"
+msgstr "Благодарности в подвале"
+
+#: inc/customizer/options/footer.php:273
+msgid "Widget text color"
+msgstr "Цвет текста виджета"
+
+#: inc/customizer/options/footer.php:311
+msgid "Links color (hover)"
+msgstr "Цвет ссылок (при наведении)"
+
+#: inc/customizer/options/blog-single.php:313
+#: inc/customizer/options/blog.php:246
+msgid "Image placement"
+msgstr "Размещение изображения"
+
+#: inc/customizer/options/header-mobile.php:160
+msgid "Offcanvas mode"
+msgstr "Режим вне экрана"
+
+#: inc/customizer/options/header-mobile.php:186
+msgid "Additional offcanvas elements"
+msgstr "Дополнительные элементы вне экрана"
+
+#: inc/customizer/options/header-mobile.php:273
+msgid "Link alignment"
+msgstr "Выравнивание ссылки"
+
+#: inc/customizer/options/header-mobile.php:296
+#: inc/customizer/options/header-mobile.php:544
+msgid "Link separator"
+msgstr "Разделитель ссылки"
+
+#: inc/customizer/options/header-mobile.php:311
+msgid "Link spacing"
+msgstr "Расстояние между ссылками"
+
+#: inc/customizer/options/header-mobile.php:357
+msgid "Menu icon"
+msgstr "Значок меню"
+
+#: inc/customizer/options/header-mobile.php:381
+msgid "Menu bar"
+msgstr "Панель меню"
+
+#: inc/customizer/options/header-mobile.php:474
+msgid "Offcanvas menu"
+msgstr "Меню вне экрана"
+
+#. translators: %1$1s, %2$2s theme copyright tags
+#: inc/classes/class-botiga-footer.php:179
+#: inc/customizer/options/footer.php:661
+#: inc/modules/hf-builder/components/footer/copyright/copyright.php:14
+msgid "%1$1s. Proudly powered by %2$2s"
+msgstr "%1$1s. На платформе %2$2s"
+
+#: inc/customizer/options/blog.php:100 inc/customizer/options/footer.php:77
+#: inc/customizer/options/footer.php:567
+msgid "1 column"
+msgstr "1 столбец"
+
+#: inc/customizer/options/woocommerce.php:431
+msgid "Add to cart button"
+msgstr "Кнопка Добавить в корзину"
+
+#: inc/customizer/options/blog.php:503
+msgid "Below excerpt"
+msgstr "Ниже отрывка"
+
+#: inc/customizer/options/blog.php:95
+msgid "Blog layout"
+msgstr "Макет блога"
+
+#: inc/customizer/options/blog.php:14
+#: inc/dashboard/class-dashboard-settings.php:243
+msgid "Blog Archives"
+msgstr "Архивы блога"
+
+#: inc/customizer/options/woocommerce.php:538
+msgid "Category"
+msgstr "Категория"
+
+#: inc/dashboard/class-dashboard-settings.php:97
+msgid "Free vs Pro"
+msgstr "Free против Pro"
+
+#: inc/customizer/options/buttons.php:275
+msgid "Top/Bottom padding"
+msgstr "Внутренний отступ сверху/снизу"
+
+#: inc/customizer/options/buttons.php:310
+msgid "Left/Right padding"
+msgstr "Внутренние отступы слева/справа"
+
+#: inc/customizer/options/header-mobile.php:435
+msgid "Top&amp;bottom padding"
+msgstr "Top&amp;нижний отступ"
+
+#: inc/customizer/options/header-mobile.php:559
+msgid "Separator size"
+msgstr "Размер разделителя"
+
+#: inc/customizer/options/header-mobile.php:587
+msgid "Separator color"
+msgstr "Цвет разделителя"
+
+#: inc/customizer/options/header.php:66
+msgid "Logo width"
+msgstr "Ширина логотипа"
+
+#: inc/customizer/options/header.php:95
+msgid "Site title color"
+msgstr "Цвет названия сайта"
+
+#: inc/customizer/options/header.php:114
+msgid "Site description color"
+msgstr "Цвет описания сайта"
+
+#: inc/customizer/options/header.php:126
+msgid "Main header"
+msgstr "Основной заголовок"
+
+#: inc/customizer/options/header.php:276
+msgid "Menu position"
+msgstr "Позиция меню"
+
+#: inc/customizer/options/header.php:319
+msgid "Enable sticky header"
+msgstr "Включить прикрепленный заголовок"
+
+#: inc/customizer/options/header.php:335
+msgid "Sticky header type"
+msgstr "Тип прикрепленного заголовка"
+
+#: inc/customizer/options/header.php:338
+msgid "Always Sticky"
+msgstr "Всегда прикрепленный"
+
+#: inc/customizer/options/header.php:448
+msgid "Top row"
+msgstr "Верхний ряд"
+
+#: inc/customizer/options/header.php:461
+msgid "Bottom row"
+msgstr "Нижний ряд"
+
+#: inc/customizer/options/header.php:714
+#: inc/modules/hf-builder/components/footer/button/customize-options.php:113
+msgid "Open in a new tab?"
+msgstr "Открыть в новой вкладке?"
+
+#: inc/customizer/options/header.php:945 inc/customizer/options/topbar.php:482
+msgid "Submenu background"
+msgstr "Фон подменю"
+
+#: inc/customizer/options/header.php:973
+msgid "Submenu Color"
+msgstr "Цвет подменю"
+
+#: inc/customizer/options/footer.php:146 inc/customizer/options/footer.php:393
+#: inc/customizer/options/footer.php:591 inc/customizer/options/footer.php:961
+#: inc/customizer/options/header.php:300 inc/customizer/options/header.php:1159
+#: inc/customizer/options/topbar.php:71 inc/customizer/options/topbar.php:584
+msgid "Full-width"
+msgstr "На всю ширину"
+
+#: inc/customizer/options/topbar.php:154
+msgid "Left side"
+msgstr "Левая сторона"
+
+#: inc/customizer/options/topbar.php:167
+msgid "Right side"
+msgstr "Правая сторона"
+
+#: inc/customizer/options/topbar.php:185
+msgid "Center the content?"
+msgstr "Центрировать содержимое?"
+
+#: inc/customizer/options/woocommerce-single.php:118
+#: inc/customizer/options/woocommerce-single.php:138
+msgid "Requires page refresh after saving"
+msgstr "Требуется обновление страницы после сохранения"
+
+#: inc/customizer/options/woocommerce-single.php:137
+msgid "Image zoom effects"
+msgstr "Эффекты увеличения изображения"
+
+#: inc/customizer/options/woocommerce-single.php:348
+msgid "Upsell products"
+msgstr "Up-sell товары"
+
+#: inc/customizer/options/header.php:867
+msgid "Bottom row background color"
+msgstr "Цвет фона нижнего ряда"
+
+#: inc/customizer/options/woocommerce.php:268
+msgid "Page elements"
+msgstr "Элементы страницы"
+
+#: inc/customizer/options/header-mobile.php:334
+#: inc/customizer/options/woocommerce.php:571
+msgid "Elements spacing"
+msgstr "Расстояние между элементами"
+
+#: inc/customizer/options/header.php:888
+msgid "Bottom row text color"
+msgstr "Цвет текста нижнего ряда"
+
+#: inc/customizer/options/header.php:1082
+msgid "Bottom row padding"
+msgstr "Внутренний отступ нижнего ряда"
+
+#: inc/customizer/options/woocommerce-single.php:603
+msgid "Product title color"
+msgstr "Цвет заголовка товара"
+
+#: inc/customizer/options/woocommerce.php:325
+msgid "Product sorting"
+msgstr "Сортировка товара"
+
+#: inc/customizer/options/woocommerce.php:345
+msgid "Results count"
+msgstr "Подсчёт результатов"
+
+#: inc/customizer/options/woocommerce.php:364
+msgid "Display breadcrumbs"
+msgstr "Показывать цепочку навигации"
+
+#: functions.php:216
+msgid "Gigantic"
+msgstr "Гигантский"
+
+#: inc/classes/class-botiga-metabox.php:239
+msgid "Botiga Page Options"
+msgstr "Параметры страницы Botiga"
+
+#: inc/classes/class-botiga-metabox.php:119
+msgid "Page Builder Mode"
+msgstr "Режим конструктора страниц"
+
+#: inc/classes/class-botiga-topbar.php:157
+#: inc/customizer/options/topbar.php:345
+msgid "Your text here"
+msgstr "Добавит текст здесь"
+
+#: inc/customizer/options/woocommerce.php:702
+msgid "Display sale percentage"
+msgstr "Отображать процент распродажи"
+
+#: inc/classes/class-botiga-metabox.php:120
+msgid "This mode activates a simplified canvas for building custom pages with either the WP editor or a page builder plugin."
+msgstr "Этот режим активирует упрощенный экран для создания пользовательских страниц с помощью редактора WP или плагина конструктора страниц."
+
+#: inc/customizer/options/woocommerce.php:717
+msgid "Sale percentage text"
+msgstr "Текст о проценте распродажи"
+
+#: inc/customizer/options/woocommerce.php:1087
+msgid "Image radius"
+msgstr "Радиус изображения"
+
+#: inc/customizer/options/blog-single.php:208
+msgid "Header alignment"
+msgstr "Выравнивание заголовка"
+
+#: inc/template-tags.php:348
+msgid "Previous:"
+msgstr "Предыдущий:"
+
+#: inc/customizer/options/blog-single.php:228
+msgid "Header spacing"
+msgstr "Расстояние между заголовками"
+
+#. translators: %s: Author name
+#: inc/template-tags.php:388
+msgid "See all posts by %s <span aria-hidden=\"true\">&rarr;</span>"
+msgstr "Просмотреть все записи от %s <span aria-hidden=\"true\">&rarr;</span>"
+
+#: inc/dashboard/class-dashboard-settings.php:291
+msgid "Checkout Options"
+msgstr "Параметры оформления заказов"
+
+#: inc/customizer/options/blog.php:578 inc/customizer/options/topbar.php:85
+msgid "Delimiter style"
+msgstr "Стиль разделителя"
+
+#: inc/customizer/options/footer.php:342 inc/customizer/options/footer.php:907
+msgid "Enable top divider"
+msgstr "Включить верхний делитель"
+
+#: inc/customizer/options/footer.php:357 inc/customizer/options/footer.php:923
+msgid "Divider size"
+msgstr "Размер делителя"
+
+#: inc/customizer/options/colors.php:423 inc/customizer/options/footer.php:374
+#: inc/customizer/options/footer.php:941
+msgid "Divider color"
+msgstr "Цвет делителя"
+
+#: inc/customizer/options/footer.php:389 inc/customizer/options/footer.php:957
+msgid "Divider width"
+msgstr "Ширина делителя"
+
+#: inc/customizer/options/blog-single.php:576
+msgid "Related posts"
+msgstr "Похожие записи"
+
+#: inc/dashboard/html-free-vs-pro.php:579
+msgid "Buy Botiga Pro Today"
+msgstr "Купите Botiga Pro сегодня"
+
+#: inc/dashboard/class-dashboard-settings.php:31
+msgid "Botiga is now installed and ready to go. To help you with the next step, we’ve gathered together on this page all the resources you might need. We hope you enjoy using Botiga."
+msgstr "Теперь Botiga установлена и готова к работе. Чтобы помочь вам сделать следующий шаг, мы собрали на этой странице все ресурсы, которые могут вам понадобиться. Надеемся, вам понравится пользоваться Botiga."
+
+#: inc/dashboard/class-dashboard-settings.php:94
+msgid "Theme Features"
+msgstr "Возможности темы"
+
+#: inc/dashboard/class-dashboard-settings.php:182
+msgid "Change Site Title or Logo"
+msgstr "Изменить название сайта или логотип"
+
+#: inc/dashboard/class-dashboard-settings.php:283
+msgid "Cart Layout"
+msgstr "Макет корзины"
+
+#: inc/dashboard/class-dashboard-settings.php:48
+msgid "Take Botiga to a whole other level by upgrading to the Pro version."
+msgstr "Поднимите Botiga на совершенно другой уровень, обновившись до версии Pro."
+
+#. translators: %s: quick view product title
+#: inc/plugins/woocommerce/features/quick-view.php:114
+msgid "Quick view the %s product"
+msgstr "Быстрый просмотр товара %s"
+
+#: inc/plugins/woocommerce/features/mini-cart.php:59
+msgid "View your shopping cart"
+msgstr "Просмотреть свою корзину"
+
+#: inc/customizer/options/colors.php:19
+msgid "Click below to pick a predefined color palette or create your own."
+msgstr "Нажмите ниже, чтобы выбрать предустановленную цветовую палитру или создать свою собственную."
+
+#: inc/customizer/options/colors.php:53
+msgid "Choose the colors for your palette:"
+msgstr "Выберите цвета для палитры:"
+
+#: inc/customizer/options/colors.php:37
+msgid "Create your own palette?"
+msgstr "Создать палитру?"
+
+#: inc/customizer/options/colors.php:118
+msgid "Body text"
+msgstr "Основной текст"
+
+#: searchform.php:27
+msgid "Search for:"
+msgstr "Найти:"
+
+#: inc/dashboard/class-dashboard.php:96
+msgid "Something went wrong, contact support."
+msgstr "Что-то пошло не так, обратитесь в службу поддержки."
+
+#: inc/dashboard/class-dashboard.php:263
+msgid "Insufficient permissions to install the plugin."
+msgstr "Недостаточно прав для установки плагина."
+
+#: inc/dashboard/class-dashboard.php:293
+msgid "Failed to initialize or activate importer plugin."
+msgstr "Не удалось инициализировать или активировать плагин импортера."
+
+#: inc/customizer/options/footer.php:142 inc/customizer/options/footer.php:587
+#: inc/customizer/options/header.php:296 inc/customizer/options/topbar.php:67
+msgid "Container type"
+msgstr "Тип контейнера"
+
+#: inc/dashboard/class-dashboard-settings.php:93 inc/dashboard/html-hero.php:58
+msgid "Starter Sites"
+msgstr "Стартовые сайты"
+
+#: inc/customizer/options/footer.php:181
+#: inc/customizer/options/scrolltotop.php:294
+#: inc/customizer/options/topbar.php:109
+msgid "Mobile/tablet only"
+msgstr "Только мобильный/планшет"
+
+#: inc/customizer/options/footer.php:208
+msgid "Footer widget areas"
+msgstr "Области виджетов в подвале"
+
+#: inc/dashboard/part-support.php:29
+msgid "Need help? We're here for you!"
+msgstr "Нужна помощь? Мы здесь для вас!"
+
+#: inc/dashboard/part-support.php:31
+msgid "Have a question? Hit a bug? Get the help you need, when you need it from our friendly support staff."
+msgstr "Есть вопрос? Наткнулся на ошибку? Получите необходимую помощь, когда вам это нужно, от нашего дружелюбного персонала службы поддержки."
+
+#: inc/customizer/options/footer.php:254
+msgid "Widget titles color"
+msgstr "Цвет названия виджета"
+
+#: inc/customizer/options/footer.php:503
+msgid "Widget titles size"
+msgstr "Размер названий виджетов"
+
+#: inc/dashboard/html-home.php:181
+msgid "Submit A Review"
+msgstr "Отправьте отзыв"
+
+#: inc/customizer/options/footer.php:667
+msgid "You can use the following tags: {copyright}, {year}, {site_title}, {theme_author}"
+msgstr "Вы можете использовать следующие теги: {copyright}, {year}, {site_title}, {theme_author}"
+
+#: inc/dashboard/html-home.php:80
+msgid "Have an idea or feedback?"
+msgstr "Есть идея или отзыв?"
+
+#: inc/customizer/options/footer.php:722 inc/customizer/options/topbar.php:298
+msgid "Social profile"
+msgstr "Профиль в соцсетях"
+
+#: inc/dashboard/html-home.php:85
+msgid "Suggest An Idea"
+msgstr "Предлагать идею"
+
+#: inc/customizer/options/footer.php:990
+msgid "Top padding"
+msgstr "Внутренний отступ сверху"
+
+#: inc/customizer/options/footer.php:1012
+msgid "Bottom padding"
+msgstr "Внутренний отступ снизу"
+
+#: inc/customizer/options/header-mobile.php:126
+#: inc/customizer/options/header-mobile.php:241
+#: inc/customizer/options/header.php:576
+msgid "Enable account icon"
+msgstr "Включить значок учетной записи"
+
+#: inc/customizer/options/header-mobile.php:106
+#: inc/customizer/options/header-mobile.php:221
+#: inc/customizer/options/header.php:556
+msgid "Enable cart icon"
+msgstr "Включить значок корзины"
+
+#: inc/customizer/options/topbar.php:52
+msgid "Enable top bar"
+msgstr "Включить верхнюю панель"
+
+#: inc/customizer/options/woocommerce.php:382
+#: inc/customizer/options/woocommerce.php:1016
+msgid "Product card"
+msgstr "Карточка товара"
+
+#: inc/customizer/options/topbar.php:14
+msgid "Top bar"
+msgstr "Верхняя панель"
+
+#: inc/customizer/options/topbar.php:381 inc/template-functions.php:592
+msgid "Secondary menu"
+msgstr "Вторичное меню"
+
+#: inc/plugins/woocommerce/features/quick-view.php:287
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Тег:"
+msgstr[1] "Тега:"
+msgstr[2] "Тегов:"
+
+#: inc/customizer/options/topbar.php:511
+msgid "Top &amp; bottom padding"
+msgstr "Верхний и нижний внутренний отступ"
+
+#: inc/customizer/options/footer.php:433
+msgid "Vertical section padding"
+msgstr "Вертикальный внутренний отступ раздела"
+
+#: inc/customizer/options/woocommerce.php:1114
+msgid "Card background"
+msgstr "Фон карточки"
+
+#: inc/customizer/options/woocommerce.php:532
+msgid "Card elements"
+msgstr "Элементы карточки"
+
+#: inc/customizer/options/woocommerce.php:1065
+msgid "Card radius"
+msgstr "Радиусы карточки"
+
+#: inc/customizer/options/header-mobile.php:86
+#: inc/customizer/options/header.php:536 inc/template-functions.php:521
+#: inc/template-functions.php:533 inc/template-functions.php:549
+#: inc/template-functions.php:564
+msgid "Cart &amp; account icons"
+msgstr "Значки корзины и учётной записи"
+
+#: inc/customizer/options/colors.php:137
+msgid "Content cards background"
+msgstr "Фон карточек контента"
+
+#: inc/customizer/options/woocommerce.php:718
+msgid "You may use the {value} tag. E.g. <strong>{value}% OFF!</strong>"
+msgstr "Вы можете использовать тег {value}. Например. <strong>СКИДКА на {value}%!</strong>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:115
+msgid "Tagged %1$s"
+msgstr "Отмеченные %1$s"
+
+#: inc/customizer/options/blog-single.php:420
+#: inc/customizer/options/blog.php:521
+msgid "Post comments"
+msgstr "Комментарии записи"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://athemes.com/theme/botiga/"
+msgstr "https://athemes.com/theme/botiga/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://athemes.com"
+msgstr "https://athemes.com"
